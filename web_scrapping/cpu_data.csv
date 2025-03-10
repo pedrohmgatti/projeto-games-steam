@@ -1,0 +1,1004 @@
+,cpu_name,n_cores,cpu_frequency
+0,Intel® Core™ 3 Processor 201EF,4,4.8 GHz
+1,Intel® Core™ 3 Processor 201E,4,4.8 GHz
+2,Intel® Core™ 3 Processor 201TE,4,4.6 GHz
+3,Intel® Core™ 5 Processor 211E,10,4.9 GHz
+4,Intel® Core™ 5 Processor 211EF,10,4.9 GHz
+5,Intel® Core™ 5 Processor 211TE,10,4.8 GHz
+6,Intel® Core™ 5 Processor 221E,14,5.2 GHz
+7,Intel® Core™ 5 Processor 221TE,14,5 GHz
+8,Intel® Core™ 7 Processor 251E,24,5.6 GHz
+9,Intel® Core™ 7 Processor 251TE,24,5.4 GHz
+10,Processador Intel® Core™ 3 N350,8,3.9 GHz
+11,Processador Intel® Core™ 3 N355,8,3.9 GHz
+12,Processador Intel® Core™ 5 220U,10,5 GHz
+13,Processador Intel® Core™ 7 250U,10,5.4 GHz
+14,Processador Intel® Core™ 5 210H,8,4.8 GHz
+15,Processador Intel® Core™ 5 220H,12,4.9 GHz
+16,Processador Intel® Core™ 7 240H,10,5.2 GHz
+17,Processador Intel® Core™ 7 250H,14,5.4 GHz
+18,Intel® Core™ 9 processor 270H,14,5.8 GHz
+19,Processador Intel® Core™ i5 14401E,6,4.7 GHz
+20,Processador Intel® Core™ i5 14401TE,6,4.5 GHz
+21,Processador Intel® Core™ i5 14501E,6,5.2 GHz
+22,Processador Intel® Core™ i5 14501TE,6,5.1 GHz
+23,Processador Intel® Core™ i7 14701E,8,5.4 GHz
+24,Processador Intel® Core™ i7 14701TE,8,5.2 GHz
+25,Processador Intel® Core™ i9 14901E,8,5.6 GHz
+26,Processador Intel® Core™ i9 14901TE,8,5.5 GHz
+27,Processador Intel® Core™ 7 150HL,14,5 GHz
+28,Processador Intel® Core™ 3 100HL,8,4.6 GHz
+29,Processador Intel® Core™ 3 100UL,6,4.5 GHz
+30,Processador Intel® Core™ 5 120HL,12,4.7 GHz
+31,Processador Intel® Core™ 5 120UL,10,4.6 GHz
+32,Processador Intel® Core™ 5 130HL,12,4.8 GHz
+33,Processador Intel® Core™ 5 130UL,10,4.7 GHz
+34,Processador Intel® Core™ 7 150UL,10,5 GHz
+35,Processador Intel® Core™ 7 160HL,14,5.2 GHz
+36,Processador Intel® Core™ 7 160UL,10,5.2 GHz
+37,Processador Intel® Core™ i9 14900KS,24,6.2 GHz
+38,Processador Intel® Core™ 3 100U,6,4.7 GHz
+39,Processador Intel® Core™ 3 100U,6,4.7 GHz
+40,Processador Intel® Core™ 5 120U,10,5 GHz
+41,Processador Intel® Core™ 7 150U,10,5.4 GHz
+42,Processador Intel® Core™ i3 14100,4,4.7 GHz
+43,Processador Intel® Core™ i3 14100F,4,4.7 GHz
+44,Processador Intel® Core™ i3 14100T,4,4.4 GHz
+45,Processador Intel® Core™ i5 14400,10,4.7 GHz
+46,Processador Intel® Core™ i5 14400F,10,4.7 GHz
+47,Processador Intel® Core™ i5 14400T,10,4.5 GHz
+48,Processador Intel® Core™ i5 14450HX,10,4.8 GHz
+49,Processador Intel® Core™ i5 14500,14,5 GHz
+50,Processador Intel® Core™ i5 14500HX,14,4.9 GHz
+51,Processador Intel® Core™ i5 14500T,14,4.8 GHz
+52,Processador Intel® Core™ i5 14600,14,5.2 GHz
+53,Processador Intel® Core™ i5 14600T,14,5.1 GHz
+54,Processador Intel® Core™ i7 14650HX,16,5.2 GHz
+55,Processador Intel® Core™ i7 14700,20,5.4 GHz
+56,Processador Intel® Core™ i7 14700F,20,5.4 GHz
+57,Processador Intel® Core™ i7 14700HX,20,5.5 GHz
+58,Processador Intel® Core™ i7 14700T,20,5.2 GHz
+59,Processador Intel® Core™ i9 14900,24,5.8 GHz
+60,Processador Intel® Core™ i9 14900F,24,5.8 GHz
+61,Processador Intel® Core™ i9 14900HX,24,5.8 GHz
+62,Processador Intel® Core™ i9 14900T,24,5.5 GHz
+63,Processador Intel® Core™ i5 14600K,14,5.3 GHz
+64,Processador Intel® Core™ i5 14600KF,14,5.3 GHz
+65,Processador Intel® Core™ i7 14700K,20,5.6 GHz
+66,Processador Intel® Core™ i7 14700KF,20,5.6 GHz
+67,Processador Intel® Core™ i9 14900K,24,6 GHz
+68,Processador Intel® Core™ i9 14900KF,24,6 GHz
+69,Processador Intel® Core™ i9-13900KS,24,6.00 GHz
+70,Processador Intel® Core™ i3-1305U,5,4.50 GHz
+71,Processador Intel® Core™ i3-13100,4,4.50 GHz
+72,Processador Intel® Core™ i3-13100E,4,4.40 GHz
+73,Processador Intel® Core™ i3-13100F,4,4.50 GHz
+74,Processador Intel® Core™ i3-13100T,4,4.20 GHz
+75,Processador Intel® Core™ i3-13100TE,4,4.10 GHz
+76,Processador Intel® Core™ i3-1315U,6,4.5 GHz
+77,Processador Intel® Core™ i3-1315U,6,4.50 GHz
+78,Processador Intel® Core™ i3-1315UE,6,4.50 GHz
+79,Processador Intel® Core™ i3-1315URE,6,4.50 GHz
+80,Processador Intel® Core™ i3-1320PE,8,4.50 GHz
+81,Processador Intel® Core™ i3-13300HE,8,4.6 GHz
+82,Processador Intel® Core™ i3-N300,8,3.80 GHz
+83,Processador Intel® Core™ i3-N305,8,3.80 GHz
+84,Processador Intel® Core™ i5-1334U,10,4.60 GHz
+85,Processador Intel® Core™ i5-1335U,10,4.6 GHz
+86,Processador Intel® Core™ i5-1335UE,10,4.50 GHz
+87,Processador Intel® Core™ i5-13400,10,4.60 GHz
+88,Processador Intel® Core™ i5-13400E,10,4.60 GHz
+89,Processador Intel® Core™ i5-13400F,10,4.60 GHz
+90,Processador Intel® Core™ i5-13400T,10,4.40 GHz
+91,Processador Intel® Core™ i5-1340P,12,4.60 GHz
+92,Processador Intel® Core™ i5-1340PE,12,4.50 GHz
+93,Processador Intel® Core™ i5-13420H,8,4.60 GHz
+94,Processador Intel® Core™ i5-13450HX,10,4.60 GHz
+95,Processador Intel® Core™ i5-1345U,10,4.7 GHz
+96,Processador Intel® Core™ i5-1345UE,10,4.60 GHz
+97,Processador Intel® Core™ i5-1345URE,10,4.60 GHz
+98,Processador Intel® Core™ i5-13500,14,4.80 GHz
+99,Processador Intel® Core™ i5-13500E,14,4.60 GHz
+100,Processador Intel® Core™ i5-13500H,12,4.7 GHz
+101,Processador Intel® Core™ i5-13500H,12,4.70 GHz
+102,Processador Intel® Core™ i5-13500HX,14,4.70 GHz
+103,Processador Intel® Core™ i5-13500T,14,4.60 GHz
+104,Processador Intel® Core™ i5-13500TE,14,4.50 GHz
+105,Processador Intel® Core™ i5-13505H,12,4.70 GHz
+106,Processador Intel® Core™ i5-1350P,12,4.70 GHz
+107,Processador Intel® Core™ i5-1350PE,12,4.60 GHz
+108,Processador Intel® Core™ i5-13600,14,5 GHz
+109,Processador Intel® Core™ i5-13600H,12,4.8 GHz
+110,Processador Intel® Core™ i5-13600HE,12,4.80 GHz
+111,Processador Intel® Core™ i5-13600HX,14,4.80 GHz
+112,Processador Intel® Core™ i5-13600T,14,4.8 GHz
+113,Processador Intel® Core™ i7-1355U,10,5 GHz
+114,Processador Intel® Core™ i7-1360P,12,5.00 GHz
+115,Processador Intel® Core™ i7-13620H,10,4.90 GHz
+116,Processador Intel® Core™ i7-13650HX,14,4.90 GHz
+117,Processador Intel® Core™ i7-1365U,10,5.2 GHz
+118,Processador Intel® Core™ i7-1365UE,10,4.90 GHz
+119,Processador Intel® Core™ i7-13700,16,5.20 GHz
+120,Processador Intel® Core™ i7-13700E,16,5.10 GHz
+121,Processador Intel® Core™ i7-13700F,16,5.20 GHz
+122,Processador Intel® Core™ i7-13700H,14,5 GHz
+123,Processador Intel® Core™ i7-13700HX,16,5.00 GHz
+124,Processador Intel® Core™ i7-13700T,16,4.90 GHz
+125,Processador Intel® Core™ i7-13700TE,16,4.80 GHz
+126,Processador Intel® Core™ i7-13705H,14,5.00 GHz
+127,Processador Intel® Core™ i7-1370P,14,5.20 GHz
+128,Processador Intel® Core™ i7-1370PE,14,4.80 GHz
+129,Processador Intel® Core™ i7-1375PRE,14,4.8 GHz
+130,Processador Intel® Core™ i7-13800H,14,5.2 GHz
+131,Processador Intel® Core™ i7-13800HE,14,5.00 GHz
+132,Processador Intel® Core™ i7-13850HX,20,5.30 GHz
+133,Processador Intel® Core™ i9-13900,24,5.60 GHz
+134,Processador Intel® Core™ i9-13900E,24,5.20 GHz
+135,Processador Intel® Core™ i9-13900F,24,5.60 GHz
+136,Processador Intel® Core™ i9-13900H,14,5.40 GHz
+137,Processador Intel® Core™ i9-13900HK,14,5.40 GHz
+138,Processador Intel® Core™ i9-13900HX,24,5.40 GHz
+139,Processador Intel® Core™ i9-13900T,24,5.30 GHz
+140,Processador Intel® Core™ i9-13900TE,24,5.00 GHz
+141,processador Intel® Core™ i9-13905H,14,5.40 GHz
+142,Processador Intel® Core™ i9-13950HX,24,5.50 GHz
+143,Processador Intel® Core™ i9-13980HX,24,5.60 GHz
+144,Processador Intel® Core™ i3-1320PRE,8,4.50 GHz
+145,Processador Intel® Core™ i3-13300HRE,8,4.60 GHz
+146,Processador Intel® Core™ i5-1350PRE,12,4.60 GHz
+147,Processador Intel® Core™ i5-13600HRE,12,4.80 GHz
+148,Processador Intel® Core™ i7-13800HRE,14,5.00 GHz
+149,Processador Intel® Core™ i5-13600K,14,5.1 GHz
+150,Processador Intel® Core™ i5-13600KF,14,5.1 GHz
+151,Processador Intel® Core™ i7-13700K,16,5.40 GHz
+152,Processador Intel® Core™ i7-13700KF,16,5.40 GHz
+153,Processador Intel® Core™ i9-13900K,24,5.80 GHz
+154,Processador Intel® Core™ i9-13900KF,24,5.8 GHz
+155,Processador Intel® Core™ i3-1215UL,6,4.40 GHz
+156,Processador Intel® Core™ i3-12300HL,8,4.40 GHz
+157,Processador Intel® Core™ i5-1235UL,10,4.40 GHz
+158,Processador Intel® Core™ i5-1245UL,10,4.40 GHz
+159,Processador Intel® Core™ i5-12500HL,12,4.50 GHz
+160,Processador Intel® Core™ i5-12600HL,12,4.50 GHz
+161,Processador Intel® Core™ i7-1255UL,10,4.70 GHz
+162,Processador Intel® Core™ i7-1265UL,10,4.80 GHz
+163,Processador Intel® Core™ i7-12700HL,14,4.70 GHz
+164,Processador Intel® Core™ i7-12800HL,14,4.80 GHz
+165,Processador Intel® Core™ i5-12450HX,8,4.40 GHz
+166,Processador Intel® Core™ i5-12600HX,12,4.60 GHz
+167,Processador Intel® Core™ i7-12650HX,14,4.70 GHz
+168,Processador Intel® Core™ i7-12800HX,16,4.80 GHz
+169,Processador Intel® Core™ i7-12850HX,16,4.80 GHz
+170,Processador Intel® Core™ i9-12900HX,16,5.00 GHz
+171,Processador Intel® Core™ i9-12950HX,16,5.00 GHz
+172,Processador Intel® Core™ i9-12900KS,16,5.50 GHz
+173,Processador Intel® Core™ i3-i3-1215UE,6,
+174,Processador Intel® Core™ i3-1220PE,8,
+175,Processador Intel® Core™ i5-1245UE,10,
+176,Processador Intel® Core™ i5-1250PE,12,
+177,Processador Intel® Core™ i7-1265UE,10,
+178,Processador Intel® Core™ i7-1270PE,12,
+179,Processador Intel® Core™ i3-1210U,6,4.40 GHz
+180,Processador Intel® Core™ i3-1215U,6,4.40 GHz
+181,Processador Intel® Core™ i3-1215U,6,4.40 GHz
+182,Processador Intel® Core™ i3-1220P,10,4.40 GHz
+183,Processador Intel® Core™ i5-1230U,10,4.40 GHz
+184,Processador Intel® Core™ i5-1235U,10,4.40 GHz
+185,Processador Intel® Core™ i5-1235U,10,4.40 GHz
+186,Processador Intel® Core™ i5-1240P,12,4.40 GHz
+187,Processador Intel® Core™ i5-1240U,10,4.40 GHz
+188,Processador Intel® Core™ i5-1245U,10,4.40 GHz
+189,Processador Intel® Core™ i5-1250P,12,4.40 GHz
+190,Processador Intel® Core™ i7-1250U,10,4.70 GHz
+191,Processador Intel® Core™ i7-1255U,10,4.70 GHz
+192,Processador Intel® Core™ i7-1260P,12,4.70 GHz
+193,Processador Intel® Core™ i7-1260U,10,4.70 GHz
+194,Processador Intel® Core™ i7-1265U,10,4.80 GHz
+195,Processador Intel® Core™ i7-1270P,12,4.80 GHz
+196,Processador Intel® Core™ i7-1280P,14,4.80 GHz
+197,Processador Intel® Core™ i3-12100,4,4.30 GHz
+198,Processador Intel® Core™ i3-12100E,4,4.20 GHz
+199,Processador Intel® Core™ i3-12100F,4,4.30 GHz
+200,Processador Intel® Core™ i3-12100T,4,4.10 GHz
+201,Processador Intel® Core™ i3-12100TE,4,4.00 GHz
+202,Processador Intel® Core™ i3-12300,4,4.40 GHz
+203,Processador Intel® Core™ i3-12300HE,8,
+204,Processador Intel® Core™ i3-12300T,4,4.20 GHz
+205,Intel® Core™ i5-12400 Processor,6,4.40 GHz
+206,Intel® Core™ i5-12400F Processor,6,4.40 GHz
+207,Processador Intel® Core™ i5-12400T,6,4.20 GHz
+208,Processador Intel® Core™ i5-12450H,8,4.40 GHz
+209,Processador Intel® Core™ i5-12500,6,4.60 GHz
+210,Processador Intel® Core™ i5-12500E,6,4.50 GHz
+211,Processador Intel® Core™ i5-12500H,12,4.50 GHz
+212,Processador Intel® Core™ i5-12500T,6,4.40 GHz
+213,Processador Intel® Core™ i5-12500TE,6,4.30 GHz
+214,Processador Intel® Core™ i5-12600,6,4.80 GHz
+215,Processador Intel® Core™ i5-12600H,12,4.50 GHz
+216,Processador Intel® Core™ i5-12600HE,12,
+217,Processador Intel® Core™ i5-12600T,6,4.60 GHz
+218,Processador Intel® Core™ i7-12650H,10,4.70 GHz
+219,Intel® Core™ i7-12700 Processor,12,4.90 GHz
+220,Processador Intel® Core™ i7-12700E,12,4.80 GHz
+221,Intel® Core™ i7-12700F Processor,12,4.90 GHz
+222,Processador Intel® Core™ i7-12700H,14,4.70 GHz
+223,Intel® Core™ i7-12700T Processor,12,4.70 GHz
+224,Processador Intel® Core™ i7-12700TE,12,4.60 GHz
+225,Processador Intel® Core™ i7-12800H,14,4.80 GHz
+226,Processador Intel® Core™ i7-12800HE,14,
+227,Intel® Core™ i9-12900 Processor,16,5.10 GHz
+228,Processador Intel® Core™ i9-12900E,16,5.00 GHz
+229,Intel® Core™ i9-12900F Processor,16,5.10 GHz
+230,Processador Intel® Core™ i9-12900H,14,5.00 GHz
+231,Processador Intel® Core™ i9-12900HK,14,5.00 GHz
+232,Intel® Core™ i9-12900T Processor,16,4.90 GHz
+233,Processador Intel® Core™ i9-12900TE,16,4.80 GHz
+234,Intel® Core™ i5-12600K Processor,10,4.90 GHz
+235,Intel® Core™ i5-12600KF Processor,10,4.90 GHz
+236,Intel® Core™ i7-12700K Processor,12,5.00 GHz
+237,Intel® Core™ i7-12700KF Processor,12,5.00 GHz
+238,Intel® Core™ i9-12900K Processor,16,5.20 GHz
+239,Intel® Core™ i9-12900KF Processor,16,5.20 GHz
+240,Processador Intel® Core™ i3-11100HE,4,4.40 GHz
+241,Processador Intel® Core™ i5-11500HE,6,4.50 GHz
+242,Processador Intel® Core™ i7-11850HE,8,4.70 GHz
+243,Processador Intel® Core™ i7-11600H,6,4.60 GHz
+244,Processador Intel® Core™ i5-11320H,4,4.50 GHz
+245,Processador Intel® Core™ i7-11390H,4,5.00 GHz
+246,Processador Intel® Core™ i5-1155G7,4,4.50 GHz
+247,Processador Intel® Core™ i5-1155G7,4,4.50 GHz
+248,Processador Intel® Core™ i7-1195G7,4,5.00 GHz
+249,Processador Intel® Core™ i7-1195G7,4,5.00 GHz
+250,Processador Intel® Core™ i5-11260H,6,4.40 GHz
+251,Processador Intel® Core™ i5-11400H,6,4.50 GHz
+252,Processador Intel® Core™ i5-11500H,6,4.60 GHz
+253,Processador Intel® Core™ i7-11800H,8,4.60 GHz
+254,Processador Intel® Core™ i7-11850H,8,4.80 GHz
+255,Processador Intel® Core™ i9-11900H,8,4.90 GHz
+256,Processador Intel® Core™ i9-11950H,8,5.00 GHz
+257,Processador Intel® Core™ i9-11980HK,8,5.00 GHz
+258,Processador Intel® Core™ i3-10105,4,4.40 GHz
+259,Processador Intel® Core™ i3-10105F,4,4.40 GHz
+260,Processador Intel® Core™ i3-10105T,4,3.90 GHz
+261,Processador Intel® Core™ i3-10305,4,4.50 GHz
+262,Processador Intel® Core™ i3-10305T,4,4.00 GHz
+263,Processador Intel® Core™ i3-10325,4,4.70 GHz
+264,Processador Intel® Core™ i5-10505,6,4.60 GHz
+265,Processador Intel® Core™ i5-11400,6,4.40 GHz
+266,Processador Intel® Core™ i5-11400F,6,4.40 GHz
+267,Processador Intel® Core™ i5-11400T,6,3.70 GHz
+268,Processador Intel® Core™ i5-11500,6,4.60 GHz
+269,Processador Intel® Core™ i5-11500T,6,3.90 GHz
+270,Processador Intel® Core™ i5-11600,6,4.80 GHz
+271,Processador Intel® Core™ i5-11600K,6,4.90 GHz
+272,Processador Intel® Core™ i5-11600KF,6,4.90 GHz
+273,Processador Intel® Core™ i5-11600T,6,4.10 GHz
+274,Processador Intel® Core™ i7-11700,8,4.90 GHz
+275,Processador Intel® Core™ i7-11700F,8,4.90 GHz
+276,Processador Intel® Core™ i7-11700K,8,5.00 GHz
+277,Processador Intel® Core™ i7-11700KF,8,5.00 GHz
+278,Processador Intel® Core™ i7-11700T,8,4.60 GHz
+279,Processador Intel® Core™ i9-11900,8,5.20 GHz
+280,Processador Intel® Core™ i9-11900F,8,5.20 GHz
+281,Processador Intel® Core™ i9-11900K,8,5.30 GHz
+282,Processador Intel® Core™ i9-11900KF,8,5.30 GHz
+283,Processador Intel® Core™ i9-11900T,8,4.90 GHz
+284,Processador Intel® Core™ i3-10100Y,2,3.90 GHz
+285,Processador Intel® Core™ i5-11300H,4,4.40 GHz
+286,Processador Intel® Core™ i5-1140G7,4,4.20 GHz
+287,Processador Intel® Core™ i5-1145G7,4,4.40 GHz
+288,Processador Intel® Core™ i7-11370H,4,4.80 GHz
+289,Processador Intel® Core™ i7-11375H,4,5.00 GHz
+290,Processador Intel® Core™ i7-1180G7,4,4.60 GHz
+291,Processador Intel® Core™ i5-10500H,6,4.50 GHz
+292,Processador Intel® Core™ i3-10100F,4,4.30 GHz
+293,Processador Intel® Core™ i3-1115G4E,2,3.90 GHz
+294,Processador Intel® Core™ i3-1115GRE,2,3.90 GHz
+295,Processador Intel® Core™ i3-1120G4,4,3.50 GHz
+296,Processador Intel® Core™ i3-1125G4,4,3.70 GHz
+297,Processador Intel® Core™ i3-1125G4,4,3.70 GHz
+298,Processador Intel® Core™ i5-1145G7E,4,4.10 GHz
+299,Processador Intel® Core™ i5-1145GRE,4,4.10 GHz
+300,Processador Intel® Core™ i7-1185G7E,4,4.40 GHz
+301,Processador Intel® Core™ i7-1185GRE,4,4.40 GHz
+302,Processador Intel® Core™ i7-10870H,8,5.00 GHz
+303,Processador Intel® Core™ i3-1110G4,2,3.90 GHz
+304,Processador Intel® Core™ i3-1115G4,2,4.10 GHz
+305,Processador Intel® Core™ i3-1115G4,2,4.10 GHz
+306,Processador Intel® Core™ i5-1130G7,4,4.00 GHz
+307,Processador Intel® Core™ i5-1135G7,4,4.20 GHz
+308,Processador Intel® Core™ i5-1135G7,4,4.20 GHz
+309,Processador Intel® Core™ i7-1160G7,4,4.40 GHz
+310,Processador Intel® Core™ i7-1165G7,4,4.70 GHz
+311,Processador Intel® Core™ i7-1165G7,4,4.70 GHz
+312,Processador Intel® Core™ i7-1185G7,4,4.80 GHz
+313,Processador Intel® Core™ i5-10200H,4,4.10 GHz
+314,Processador Intel® Core™ i9-10850K,10,5.20 GHz
+315,Processador Intel® Core™ i3-L13G4,5,2.80 GHz
+316,Processador Intel® Core™ i5-L16G7,5,3.00 GHz
+317,Processador Intel® Core™ i5-10310U,4,4.40 GHz
+318,Processador Intel® Core™ i7-10610U,4,4.90 GHz
+319,Processador Intel® Core™ i7-10810U,6,4.90 GHz
+320,Processador Intel® Core™ i9-10885H,8,5.30 GHz
+321,Processador Intel® Core™ i3-10100,4,4.30 GHz
+322,Processador Intel® Core™ i3-10100E,4,3.80 GHz
+323,Processador Intel® Core™ i3-10100T,4,3.80 GHz
+324,Processador Intel® Core™ i3-10100TE,4,3.60 GHz
+325,Processador Intel® Core™ i3-10300,4,4.40 GHz
+326,Processador Intel® Core™ i3-10300T,4,3.90 GHz
+327,Processador Intel® Core™ i3-10320,4,4.60 GHz
+328,Processador Intel® Core™ i5-10400,6,4.30 GHz
+329,Processador Intel® Core™ i5-10400F,6,4.30 GHz
+330,Processador Intel® Core™ i5-10400T,6,3.60 GHz
+331,Processador Intel® Core™ i5-10500,6,4.50 GHz
+332,Processador Intel® Core™ i5-10500E,6,4.20 GHz
+333,Processador Intel® Core™ i5-10500T,6,3.80 GHz
+334,Processador Intel® Core™ i5-10500TE,6,3.70 GHz
+335,Processador Intel® Core™ i5-10600,6,4.80 GHz
+336,Processador Intel® Core™ i5-10600K,6,4.80 GHz
+337,Processador Intel® Core™ i5-10600KF,6,4.80 GHz
+338,Processador Intel® Core™ i5-10600T,6,4.00 GHz
+339,Processador Intel® Core™ i7-10700,8,4.80 GHz
+340,Processador Intel® Core™ i7-10700E,8,4.50 GHz
+341,Processador Intel® Core™ i7-10700F,8,4.80 GHz
+342,Processador Intel® Core™ i7-10700K,8,5.10 GHz
+343,Processador Intel® Core™ i7-10700KF,8,5.10 GHz
+344,Processador Intel® Core™ i7-10700T,8,4.50 GHz
+345,Processador Intel® Core™ i7-10700TE,8,4.40 GHz
+346,Processador Intel® Core™ i9-10900,10,5.20 GHz
+347,Processador Intel® Core™ i9-10900E,10,4.70 GHz
+348,Processador Intel® Core™ i9-10900F,10,5.20 GHz
+349,Processador Intel® Core™ i9-10900K,10,5.30 GHz
+350,Processador Intel® Core™ i9-10900KF,10,5.30 GHz
+351,Processador Intel® Core™ i9-10900T,10,4.60 GHz
+352,Processador Intel® Core™ i9-10900TE,10,4.50 GHz
+353,Processador Intel® Core™ i5-10300H,4,4.50 GHz
+354,Processador Intel® Core™ i5-10400H,4,4.60 GHz
+355,Processador Intel® Core™ i7-10750H,6,5.00 GHz
+356,Processador Intel® Core™ i7-10850H,6,5.10 GHz
+357,Processador Intel® Core™ i7-10875H,8,5.10 GHz
+358,Processador Intel® Core™ i9-10980HK,8,5.30 GHz
+359,Processador Intel® Core™ i9-9900KS,8,5.00 GHz
+360,Processador Intel® Core™ i9-10900X série X,10,4.50 GHz
+361,Processador Intel® Core™ i9-10920X série X,12,4.60 GHz
+362,Processador Intel® Core™ i9-10940X série X,14,4.60 GHz
+363,Processador Intel® Core™ i9-10980XE Extreme Edition,18,4.60 GHz
+364,Processador Intel® Core™ i3-8140U,2,3.90 GHz
+365,Processador Intel® Core™ i5-8260U,4,3.90 GHz
+366,Processador Intel® Core™ i3-10110U,2,4.10 GHz
+367,Processador Intel® Core™ i3-10110Y,2,4.00 GHz
+368,Processador Intel® Core™ i5-10210U,4,4.20 GHz
+369,Processador Intel® Core™ i5-10210Y,4,4.00 GHz
+370,Processador Intel® Core™ i5-10310Y,4,4.10 GHz
+371,Processador Intel® Core™ i7-10510U,4,4.90 GHz
+372,Processador Intel® Core™ i7-10510Y,4,4.50 GHz
+373,Processador Intel® Core™ i7-10710U,6,4.70 GHz
+374,Processador Intel® Core™ i3-1005G1,2,3.40 GHz
+375,Processador Intel® Core™ i5-1035G1,4,3.60 GHz
+376,Processador Intel® Core™ i5-1035G4,4,3.70 GHz
+377,Processador Intel® Core™ i5-1035G7,4,3.70 GHz
+378,Processador Intel® Core™ i7-1065G7,4,3.90 GHz
+379,Processador Intel® Core™ i5-8257U,4,3.90 GHz
+380,Processador Intel® Core™ i7-8557U,4,4.50 GHz
+381,Processador Intel® Core™ i3-9100E,4,3.70 GHz
+382,Processador Intel® Core™ i3-9100HL,4,2.90 GHz
+383,Processador Intel® Core™ i3-9100TE,4,3.20 GHz
+384,Processador Intel® Core™ i5-9500E,6,4.20 GHz
+385,Processador Intel® Core™ i7-9700E,8,4.40 GHz
+386,Processador Intel® Core™ i7-9700TE,8,3.80 GHz
+387,Processador Intel® Core™ i7-9850HE,6,4.40 GHz
+388,Processador Intel® Core™ i7-9850HL,6,4.10 GHz
+389,Processador Intel® Core™ i5-8279U,4,4.10 GHz
+390,Processador Intel® Core™ i7-8569U,4,4.70 GHz
+391,Processador Intel® Core™ i3-9100,4,4.20 GHz
+392,Processador Intel® Core™ i3-9100F,4,4.20 GHz
+393,Processador Intel® Core™ i3-9100T,4,3.70 GHz
+394,Processador Intel® Core™ i3-9300,4,4.30 GHz
+395,Processador Intel® Core™ i3-9300T,4,3.80 GHz
+396,Processador Intel® Core™ i3-9320,4,4.40 GHz
+397,Processador Intel® Core™ i3-9350K,4,4.60 GHz
+398,Processador Intel® Core™ i5-9300H,4,4.10 GHz
+399,Processador Intel® Core™ i5-9400H,4,4.30 GHz
+400,Processador Intel® Core™ i5-9400T,6,3.40 GHz
+401,Processador Intel® Core™ i5-9500,6,4.40 GHz
+402,Processador Intel® Core™ i5-9500F,6,4.40 GHz
+403,Processador Intel® Core™ i5-9500T,6,3.70 GHz
+404,Processador Intel® Core™ i5-9600,6,4.60 GHz
+405,Processador Intel® Core™ i5-9600T,6,3.90 GHz
+406,Processador Intel® Core™ i7-9700,8,4.70 GHz
+407,Processador Intel® Core™ i7-9700F,8,4.70 GHz
+408,Processador Intel® Core™ i7-9700T,8,4.30 GHz
+409,Processador Intel® Core™ i7-9750H,6,4.50 GHz
+410,Processador Intel® Core™ i7-9750HF,6,4.50 GHz
+411,Processador Intel® Core™ i7-9850H,6,4.60 GHz
+412,Processador Intel® Core™ i9-9880H,8,4.80 GHz
+413,Processador Intel® Core™ i9-9900,8,5.00 GHz
+414,Processador Intel® Core™ i9-9900T,8,4.40 GHz
+415,Processador Intel® Core™ i9-9980HK,8,5.00 GHz
+416,Processador Intel® Core™ i5-8365U,4,4.10 GHz
+417,Processador Intel® Core™ i7-8665U,4,4.80 GHz
+418,Processador Intel® Core™ i5-9300HF,4,4.10 GHz
+419,Processador Intel® Core™ i3-9350KF,4,4.60 GHz
+420,Processador Intel® Core™ i5-9400,6,4.10 GHz
+421,Processador Intel® Core™ i5-9400F,6,4.10 GHz
+422,Processador Intel® Core™ i5-9600KF,6,4.60 GHz
+423,Processador Intel® Core™ i7-9700KF,8,4.90 GHz
+424,Processador Intel® Core™ i9-9900KF,8,5.00 GHz
+425,Processador Intel® Core™ i5-8310Y,2,3.90 GHz
+426,Processador Intel® Core™ i5-9600K,6,4.60 GHz
+427,Processador Intel® Core™ i7-9700K,8,4.90 GHz
+428,Processador Intel® Core™ i7-9800X série X,8,4.40 GHz
+429,Processador Intel® Core™ i9-9820X série X,10,4.10 GHz
+430,Processador Intel® Core™ i9-9900K,8,5.00 GHz
+431,Processador Intel® Core™ i9-9900X série X,10,4.40 GHz
+432,Processador Intel® Core™ i9-9920X série X,12,4.40 GHz
+433,Processador Intel® Core™ i9-9940X série X,14,4.40 GHz
+434,Processador Intel® Core™ i9-9960X série X,16,4.40 GHz
+435,Processador Intel® Core™ i9-9980XE Extreme Edition,18,4.40 GHz
+436,Processador Intel® Core™ i3-8145UE,2,3.90 GHz
+437,Processador Intel® Core™ i5-8365UE,4,4.10 GHz
+438,Processador Intel® Core™ i7-8665UE,4,4.40 GHz
+439,Processador Intel® Core™ i3-8100B,4,
+440,Processador Intel® Core™ i5-8210Y,2,3.60 GHz
+441,Processador Intel® Core™ i3-8145U,2,3.90 GHz
+442,Processador Intel® Core™ i5-8200Y,2,3.90 GHz
+443,Processador Intel® Core™ i5-8265U,4,3.90 GHz
+444,Processador Intel® Core™ i7-8500Y,2,4.20 GHz
+445,Processador Intel® Core™ i7-8565U,4,4.60 GHz
+446,Processador Intel® Core™ m3-8100Y,2,3.40 GHz
+447,Processador Intel® Core™ i5-8305G com placa de vídeo Radeon™ Pro WX Vega M GL,4,3.80 GHz
+448,Processador Intel® Core™ i7-8706G com placa de vídeo Radeon™ Pro WX Vega M GL,4,4.10 GHz
+449,Processador Intel® Core™ i7-8086K,6,5.00 GHz
+450,Processador Intel® Core™ i3-8100T,4,
+451,Processador Intel® Core™ i3-8109U,2,3.60 GHz
+452,Processador Intel® Core™ i3-8300,4,
+453,Processador Intel® Core™ i3-8300T,4,
+454,Processador Intel® Core™ i5-8259U,4,3.80 GHz
+455,Processador Intel® Core™ i5-8269U,4,4.20 GHz
+456,Processador Intel® Core™ i5-8300H,4,4.00 GHz
+457,"Processador Intel® Core™ i5+8400
+(cache de 9 M, até 4,00 GHz), inclui Intel® Optane™ Memory",6,4.00 GHz
+458,Processador Intel® Core™ i5-8400B,6,4.00 GHz
+459,Processador Intel® Core™ i5-8400H,4,4.20 GHz
+460,Processador Intel® Core™ i5-8400T,6,3.30 GHz
+461,Processador Intel® Core™ i5-8500,6,4.10 GHz
+462,"Processador Intel® Core™ i5+8500
+(cache de 9 M, até 4,10 GHz), inclui Intel® Optane™ Memory",6,4.10 GHz
+463,Processador Intel® Core™ i5-8500B,6,4.10 GHz
+464,Processador Intel® Core™ i5-8500T,6,3.50 GHz
+465,Processador Intel® Core™ i5-8600,6,4.30 GHz
+466,Processador Intel® Core™ i5-8600T,6,3.70 GHz
+467,Processador Intel® Core™ i7-8559U,4,4.50 GHz
+468,"Processador Intel® Core™ i7+8700
+(cache de 12 M, até 4,60 GHz), inclui Intel® Optane™ Memory",6,4.60 GHz
+469,Processador Intel® Core™ i7-8700B,6,4.60 GHz
+470,Processador Intel® Core™ i7-8700T,6,4.00 GHz
+471,Processador Intel® Core™ i7-8750H,6,4.10 GHz
+472,Processador Intel® Core™ i7-8850H,6,4.30 GHz
+473,Processador Intel® Core™ i9-8950HK,6,4.80 GHz
+474,Processador Intel® Core™ i3-7020U,2,
+475,Processador Intel® Core™ i3-8130U,2,3.40 GHz
+476,Processador Intel® Core™ i5-8305G com placa de vídeo Radeon™ RX Vega M GL,4,3.80 GHz
+477,Processador Intel® Core™ i7-8705G com placa de vídeo Radeon™ RX Vega M GL,4,4.10 GHz
+478,Processador Intel® Core™ i7-8706G com placa de vídeo Radeon™ RX Vega M GL,4,4.10 GHz
+479,Processador Intel® Core™ i7-8709G com placa de vídeo Radeon™ RX Vega M GH,4,4.10 GHz
+480,Processador Intel® Core™ i7-8809G com placa de vídeo Radeon™ RX Vega M GH,4,4.20 GHz
+481,Processador Intel® Core™ i3-8100H,4,
+482,Processador Intel® Core™ i5-9500TE,6,3.60 GHz
+483,Processador Intel® Core™ i3-8100,4,
+484,Processador Intel® Core™ i3-8350K,4,
+485,Processador Intel® Core™ i5-8400,6,4.00 GHz
+486,Processador Intel® Core™ i5-8600K,6,4.30 GHz
+487,Processador Intel® Core™ i7-8700,6,4.60 GHz
+488,Processador Intel® Core™ i7-8700K,6,4.70 GHz
+489,Processador Intel® Core™ i9-7940X série X,14,4.30 GHz
+490,Processador Intel® Core™ i9-7960X série X,16,4.20 GHz
+491,Processador Intel® Core™ i9-7980XE Extreme Edition,18,4.20 GHz
+492,Processador Intel® Core™ i5-8250U,4,3.40 GHz
+493,Processador Intel® Core™ i5-8350U,4,3.60 GHz
+494,Processador Intel® Core™ i7-8550U,4,4.00 GHz
+495,Processador Intel® Core™ i7-8650U,4,4.20 GHz
+496,Processador Intel® Core™ i9-7920X série X,12,4.30 GHz
+497,Processador Intel® Core™ i3-7130U,2,
+498,Processador Intel® Core™ i5-7640X série X,4,4.20 GHz
+499,Processador Intel® Core™ i7-7740X série X,4,4.50 GHz
+500,Processador Intel® Core™ i7-7800X série X,6,4.00 GHz
+501,Processador Intel® Core™ i7-7820X série X,8,4.30 GHz
+502,Processador Intel® Core™ i9-7900X série X,10,4.30 GHz
+503,Processador Intel® Core™ m3-7Y32,2,3.00 GHz
+504,Processador Intel® Core™ i3-7100,2,
+505,Processador Intel® Core™ i3-7100E,2,
+506,Processador Intel® Core™ i3-7100H,2,
+507,Processador Intel® Core™ i3-7100T,2,
+508,Processador Intel® Core™ i3-7101E,2,
+509,Processador Intel® Core™ i3-7101TE,2,
+510,Processador Intel® Core™ i3-7102E,2,
+511,Processador Intel® Core™ i3-7167U,2,
+512,Processador Intel® Core™ i3-7300,2,
+513,Processador Intel® Core™ i3-7300T,2,
+514,Processador Intel® Core™ i3-7320,2,
+515,Processador Intel® Core™ i3-7350K,2,
+516,Processador Intel® Core™ i5-7260U,2,3.40 GHz
+517,Processador Intel® Core™ i5-7267U,2,3.50 GHz
+518,Processador Intel® Core™ i5-7287U,2,3.70 GHz
+519,Processador Intel® Core™ i5-7300HQ,4,3.50 GHz
+520,Processador Intel® Core™ i5-7300U,2,3.50 GHz
+521,Processador Intel® Core™ i5-7360U,2,3.60 GHz
+522,Processador Intel® Core™ i5-7400,4,3.50 GHz
+523,Processador Intel® Core™ i5-7400T,4,3.00 GHz
+524,Processador Intel® Core™ i5-7440EQ,4,3.60 GHz
+525,Processador Intel® Core™ i5-7440HQ,4,3.80 GHz
+526,Processador Intel® Core™ i5-7442EQ,4,2.90 GHz
+527,Processador Intel® Core™ i5-7500,4,3.80 GHz
+528,Processador Intel® Core™ i5-7500T,4,3.30 GHz
+529,Processador Intel® Core™ i5-7600,4,4.10 GHz
+530,Processador Intel® Core™ i5-7600K,4,4.20 GHz
+531,Processador Intel® Core™ i5-7600T,4,3.70 GHz
+532,Processador Intel® Core™ i5-7Y57,2,3.30 GHz
+533,Processador Intel® Core™ i7-7560U,2,3.80 GHz
+534,Processador Intel® Core™ i7-7567U,2,4.00 GHz
+535,Processador Intel® Core™ i7-7660U,2,4.00 GHz
+536,Processador Intel® Core™ i7-7700,4,4.20 GHz
+537,Processador Intel® Core™ i7-7700HQ,4,3.80 GHz
+538,Processador Intel® Core™ i7-7700K,4,4.50 GHz
+539,Processador Intel® Core™ i7-7700T,4,3.80 GHz
+540,Processador Intel® Core™ i7-7820EQ,4,3.70 GHz
+541,Processador Intel® Core™ i7-7820HK,4,3.90 GHz
+542,Processador Intel® Core™ i7-7820HQ,4,3.90 GHz
+543,Processador Intel® Core™ i7-7920HQ,4,4.10 GHz
+544,Processador Intel® Core™ i3-6006U,2,
+545,Processador Intel® Core™ i7-7600U,2,3.90 GHz
+546,Processador Intel® Core™ i3-6157U,2,
+547,Processador Intel® Core™ i3-7100U,2,
+548,Processador Intel® Core™ i5-7200U,2,3.10 GHz
+549,Processador Intel® Core™ i5-7Y54,2,3.20 GHz
+550,Processador Intel® Core™ i7-7500U,2,3.50 GHz
+551,Processador Intel® Core™ i7-7Y75,2,3.60 GHz
+552,Processador Intel® Core™ m3-7Y30,2,2.60 GHz
+553,Processador Intel® Core™ i7-6800K,6,3.60 GHz
+554,Processador Intel® Core™ i7-6850K,6,3.80 GHz
+555,Processador Intel® Core™ i7-6900K,8,3.70 GHz
+556,Processador Intel® Core™ i7-6950X Extreme Edition,10,3.50 GHz
+557,Processador Intel® Core™ i5-6585R,4,3.60 GHz
+558,Processador Intel® Core™ i5-6685R,4,3.80 GHz
+559,Processador Intel® Core™ i7-6785R,4,3.90 GHz
+560,Processador Intel® Core™ i7-6660U,2,3.40 GHz
+561,Processador Intel® Core™ i5-6350HQ,4,3.20 GHz
+562,Processador Intel® Core™ i7-6770HQ,4,3.50 GHz
+563,Processador Intel® Core™ i7-6870HQ,4,3.60 GHz
+564,Processador Intel® Core™ i7-6970HQ,4,3.70 GHz
+565,Processador Intel® Core™ i3-6098P,2,
+566,Processador Intel® Core™ i5-6402P,4,3.40 GHz
+567,Processador Intel® Core™ i3-6100E,2,
+568,Processador Intel® Core™ i3-6100TE,2,
+569,Processador Intel® Core™ i3-6102E,2,
+570,Processador Intel® Core™ i5-6440EQ,4,3.40 GHz
+571,Processador Intel® Core™ i5-6442EQ,4,2.70 GHz
+572,Processador Intel® Core™ i5-6500TE,4,3.30 GHz
+573,Processador Intel® Core™ i7-6700TE,4,3.40 GHz
+574,Processador Intel® Core™ i7-6820EQ,4,3.50 GHz
+575,Processador Intel® Core™ i7-6822EQ,4,2.80 GHz
+576,Processador Intel® Core™ i3-6100,2,
+577,Processador Intel® Core™ i3-6100H,2,
+578,Processador Intel® Core™ i3-6100T,2,
+579,Processador Intel® Core™ i3-6100U,2,
+580,Processador Intel® Core™ i3-6167U,2,
+581,Processador Intel® Core™ i3-6300,2,
+582,Processador Intel® Core™ i3-6300T,2,
+583,Processador Intel® Core™ i3-6320,2,
+584,Processador Intel® Core™ i5-6200U,2,2.80 GHz
+585,Processador Intel® Core™ i5-6260U,2,2.90 GHz
+586,Processador Intel® Core™ i5-6267U,2,3.30 GHz
+587,Processador Intel® Core™ i5-6287U,2,3.50 GHz
+588,Processador Intel® Core™ i5-6300HQ,4,3.20 GHz
+589,Processador Intel® Core™ i5-6300U,2,3.00 GHz
+590,Processador Intel® Core™ i5-6360U,2,3.10 GHz
+591,Processador Intel® Core™ i5-6400,4,3.30 GHz
+592,Processador Intel® Core™ i5-6400T,4,2.80 GHz
+593,Processador Intel® Core™ i5-6440HQ,4,3.50 GHz
+594,Processador Intel® Core™ i5-6500,4,3.60 GHz
+595,Processador Intel® Core™ i5-6500T,4,3.10 GHz
+596,Processador Intel® Core™ i5-6600,4,3.90 GHz
+597,Processador Intel® Core™ i5-6600T,4,3.50 GHz
+598,Processador Intel® Core™ i7-6500U,2,3.10 GHz
+599,Processador Intel® Core™ i7-6560U,2,3.20 GHz
+600,Processador Intel® Core™ i7-6600U,2,3.40 GHz
+601,Processador Intel® Core™ i7-6650U,2,3.40 GHz
+602,Processador Intel® Core™ i7-6700,4,4.00 GHz
+603,Processador Intel® Core™ i7-6700HQ,4,3.50 GHz
+604,Processador Intel® Core™ i7-6700T,4,3.60 GHz
+605,Processador Intel® Core™ i7-6820HK,4,3.60 GHz
+606,Processador Intel® Core™ i7-6820HQ,4,3.60 GHz
+607,Processador Intel® Core™ i7-6920HQ,4,3.80 GHz
+608,Processador Intel® Core™ m3-6Y30,2,2.20 GHz
+609,Processador Intel® Core™ i7-4610T,2,2.70 GHz
+610,Processador Intel® Core™ m5-6Y57,2,2.80 GHz
+611,Processador Intel® Core™ m7-6Y75,2,3.10 GHz
+612,Processador Intel® Core™ i5-6600K,4,3.90 GHz
+613,Processador Intel® Core™ i7-6700K,4,4.20 GHz
+614,Processador Intel® Core™ i7-6567U,2,3.60 GHz
+615,Processador Intel® Core™ i5-5350H,2,3.50 GHz
+616,Processador Intel® Core™ i5-5575R,4,3.30 GHz
+617,Processador Intel® Core™ i5-5675C,4,3.60 GHz
+618,Processador Intel® Core™ i5-5675R,4,3.60 GHz
+619,Processador Intel® Core™ i7-5700EQ,4,3.40 GHz
+620,Processador Intel® Core™ i7-5700HQ,4,3.50 GHz
+621,Processador Intel® Core™ i7-5750HQ,4,3.40 GHz
+622,Processador Intel® Core™ i7-5775C,4,3.70 GHz
+623,Processador Intel® Core™ i7-5775R,4,3.80 GHz
+624,Processador Intel® Core™ i7-5850EQ,4,3.40 GHz
+625,Processador Intel® Core™ i7-5850HQ,4,3.60 GHz
+626,Processador Intel® Core™ i7-5950HQ,4,3.80 GHz
+627,Processador Intel® Core™ i3-4170,2,
+628,Processador Intel® Core™ i3-4170T,2,
+629,Processador Intel® Core™ i3-4370T,2,
+630,Processador Intel® Core™ i3-5015U,2,
+631,Processador Intel® Core™ i3-5020U,2,
+632,Processador Intel® Core™ i7-4720HQ,4,3.60 GHz
+633,Processador Intel® Core™ i7-4722HQ,4,3.40 GHz
+634,Processador Intel® Core™ i3-5005U,2,
+635,Processador Intel® Core™ i3-5010U,2,
+636,Processador Intel® Core™ i3-5157U,2,
+637,Processador Intel® Core™ i5-5200U,2,2.70 GHz
+638,Processador Intel® Core™ i5-5250U,2,2.70 GHz
+639,Processador Intel® Core™ i5-5257U,2,3.10 GHz
+640,Processador Intel® Core™ i5-5287U,2,3.30 GHz
+641,Processador Intel® Core™ i5-5300U,2,2.90 GHz
+642,Processador Intel® Core™ i5-5350U,2,2.90 GHz
+643,Processador Intel® Core™ i7-5500U,2,3.00 GHz
+644,Processador Intel® Core™ i7-5550U,2,3.00 GHz
+645,Processador Intel® Core™ i7-5557U,2,3.40 GHz
+646,Processador Intel® Core™ i7-5600U,2,3.20 GHz
+647,Processador Intel® Core™ i7-5650U,2,3.10 GHz
+648,Processador Intel® Core™ M-5Y10c,2,2.00 GHz
+649,Processador Intel® Core™ M-5Y31,2,2.40 GHz
+650,Processador Intel® Core™ M-5Y51,2,2.60 GHz
+651,Processador Intel® Core™ M-5Y71,2,2.90 GHz
+652,Processador Intel® Core™ M-5Y10,2,2.00 GHz
+653,Processador Intel® Core™ M-5Y10a,2,2.00 GHz
+654,Processador Intel® Core™ M-5Y70,2,2.60 GHz
+655,Processador Intel® Core™ i7-5820K,6,3.60 GHz
+656,Processador Intel® Core™ i7-5930K,6,3.70 GHz
+657,Processador Intel® Core™ i7-5960X Extreme Edition,8,3.50 GHz
+658,Processador Intel® Core™ i3-4160,2,
+659,Processador Intel® Core™ i3-4160T,2,
+660,Processador Intel® Core™ i3-4360T,2,
+661,Processador Intel® Core™ i3-4370,2,
+662,Processador Intel® Core™ i5-4210H,2,3.50 GHz
+663,Processador Intel® Core™ i5-4278U,2,3.10 GHz
+664,Processador Intel® Core™ i5-4308U,2,3.30 GHz
+665,Processador Intel® Core™ i7-4578U,2,3.50 GHz
+666,Processador Intel® Core™ i7-4770HQ,4,3.40 GHz
+667,Processador Intel® Core™ i7-4870HQ,4,3.70 GHz
+668,Processador Intel® Core™ i7-4980HQ,4,4.00 GHz
+669,Processador Intel® Core™ i5-4690K,4,3.90 GHz
+670,Processador Intel® Core™ i7-4790K,4,4.40 GHz
+671,Processador Intel® Core™ i3-4150,2,
+672,Processador Intel® Core™ i3-4150T,2,
+673,Processador Intel® Core™ i3-4340TE,2,
+674,Processador Intel® Core™ i3-4350,2,
+675,Processador Intel® Core™ i3-4350T,2,
+676,Processador Intel® Core™ i3-4360,2,
+677,Processador Intel® Core™ i5-4460,4,3.40 GHz
+678,Processador Intel® Core™ i5-4460S,4,3.40 GHz
+679,Processador Intel® Core™ i5-4460T,4,2.70 GHz
+680,Processador Intel® Core™ i5-4590,4,3.70 GHz
+681,Processador Intel® Core™ i5-4590S,4,3.70 GHz
+682,Processador Intel® Core™ i5-4590T,4,3.00 GHz
+683,Processador Intel® Core™ i5-4690,4,3.90 GHz
+684,Processador Intel® Core™ i5-4690S,4,3.90 GHz
+685,Processador Intel® Core™ i5-4690T,4,3.50 GHz
+686,Processador Intel® Core™ i7-4785T,4,3.20 GHz
+687,Processador Intel® Core™ i7-4790,4,4.00 GHz
+688,Processador Intel® Core™ i7-4790S,4,4.00 GHz
+689,Processador Intel® Core™ i7-4790T,4,3.90 GHz
+690,Processador Intel® Core™ i3-4025U,2,
+691,Processador Intel® Core™ i3-4030U,2,
+692,Processador Intel® Core™ i3-4030Y,2,
+693,Processador Intel® Core™ i3-4110E,2,
+694,Processador Intel® Core™ i3-4110M,2,
+695,Processador Intel® Core™ i3-4112E,2,
+696,Processador Intel® Core™ i3-4120U,2,
+697,Processador Intel® Core™ i5-4210M,2,3.20 GHz
+698,Processador Intel® Core™ i5-4210U,2,2.70 GHz
+699,Processador Intel® Core™ i5-4220Y,2,2.00 GHz
+700,Processador Intel® Core™ i5-4260U,2,2.70 GHz
+701,Processador Intel® Core™ i5-4410E,2,
+702,Processador Intel® Core™ i5-4422E,2,2.90 GHz
+703,Processador Intel® Core™ i7-4510U,2,3.10 GHz
+704,Processador Intel® Core™ i7-4710HQ,4,3.50 GHz
+705,Processador Intel® Core™ i7-4710MQ,4,3.50 GHz
+706,Processador Intel® Core™ i7-4712HQ,4,3.30 GHz
+707,Processador Intel® Core™ i7-4712MQ,4,3.30 GHz
+708,Processador Intel® Core™ i7-4760HQ,4,3.30 GHz
+709,Processador Intel® Core™ i5-4402EC,2,
+710,Processador Intel® Core™ i7-4700EC,4,
+711,Processador Intel® Core™ i7-4702EC,4,
+712,Processador Intel® Core™ i5-4310M,2,3.40 GHz
+713,Processador Intel® Core™ i5-4310U,2,3.00 GHz
+714,Processador Intel® Core™ i5-4340M,2,3.60 GHz
+715,Processador Intel® Core™ i5-4360U,2,3.00 GHz
+716,Processador Intel® Core™ i7-4610M,2,3.70 GHz
+717,Processador Intel® Core™ i7-4810MQ,4,3.80 GHz
+718,Processador Intel® Core™ i7-4860HQ,4,3.60 GHz
+719,Processador Intel® Core™ i7-4910MQ,4,3.90 GHz
+720,Processador Intel® Core™ i7-4940MX Extreme Edition,4,4.00 GHz
+721,Processador Intel® Core™ i3-3115C,2,
+722,Processador Intel® Core™ i7-4820K,4,3.90 GHz
+723,Processador Intel® Core™ i7-4930K,6,3.90 GHz
+724,Processador Intel® Core™ i7-4960X Extreme Edition,6,4.00 GHz
+725,Processador Intel® Core™ i3-4000M,2,
+726,Processador Intel® Core™ i3-4005U,2,
+727,Processador Intel® Core™ i3-4012Y,2,
+728,Processador Intel® Core™ i3-4020Y,2,
+729,Processador Intel® Core™ i3-4100E,2,
+730,Processador Intel® Core™ i3-4100M,2,
+731,Processador Intel® Core™ i3-4102E,2,
+732,Processador Intel® Core™ i3-4130,2,
+733,Processador Intel® Core™ i3-4130T,2,
+734,Processador Intel® Core™ i3-4330,2,
+735,Processador Intel® Core™ i3-4330T,2,
+736,Processador Intel® Core™ i3-4330TE,2,
+737,Processador Intel® Core™ i3-4340,2,
+738,Processador Intel® Core™ i5-3340,4,3.30 GHz
+739,Processador Intel® Core™ i5-3340S,4,3.30 GHz
+740,Processador Intel® Core™ i5-4200H,2,3.40 GHz
+741,Processador Intel® Core™ i5-4200M,2,3.10 GHz
+742,Processador Intel® Core™ i5-4202Y,2,2.00 GHz
+743,Processador Intel® Core™ i5-4210Y,2,1.90 GHz
+744,Processador Intel® Core™ i5-4300M,2,3.30 GHz
+745,Processador Intel® Core™ i5-4300U,2,2.90 GHz
+746,Processador Intel® Core™ i5-4300Y,2,2.30 GHz
+747,Processador Intel® Core™ i5-4302Y,2,2.30 GHz
+748,Processador Intel® Core™ i5-4330M,2,3.50 GHz
+749,Processador Intel® Core™ i5-4400E,2,3.30 GHz
+750,Processador Intel® Core™ i5-4402E,2,2.70 GHz
+751,Processador Intel® Core™ i5-4440,4,3.30 GHz
+752,Processador Intel® Core™ i5-4440S,4,3.30 GHz
+753,Processador Intel® Core™ i7-4600M,2,3.60 GHz
+754,Processador Intel® Core™ i7-4600U,2,3.30 GHz
+755,Processador Intel® Core™ i7-4610Y,2,2.90 GHz
+756,Processador Intel® Core™ i7-4771,4,3.90 GHz
+757,Processador Intel® Core™ i7-4960HQ,4,3.80 GHz
+758,Processador Intel® Core™ i3-3245,2,
+759,Processador Intel® Core™ i3-3250,2,
+760,Processador Intel® Core™ i3-3250T,2,
+761,Processador Intel® Core™ i7-4750HQ,4,3.20 GHz
+762,Processador Intel® Core™ i7-4850HQ,4,3.50 GHz
+763,Processador Intel® Core™ i7-4950HQ,4,3.60 GHz
+764,Processador Intel® Core™ i3-4010U,2,
+765,Processador Intel® Core™ i3-4010Y,2,
+766,Processador Intel® Core™ i3-4100U,2,
+767,Processador Intel® Core™ i3-4158U,2,
+768,Processador Intel® Core™ i5-4200U,2,2.60 GHz
+769,Processador Intel® Core™ i5-4200Y,2,1.90 GHz
+770,Processador Intel® Core™ i5-4250U,2,2.60 GHz
+771,Processador Intel® Core™ i5-4258U,2,2.90 GHz
+772,Processador Intel® Core™ i5-4288U,2,3.10 GHz
+773,Processador Intel® Core™ i5-4350U,2,2.90 GHz
+774,Processador Intel® Core™ i5-4570R,4,3.20 GHz
+775,Processador Intel® Core™ i5-4670R,4,3.70 GHz
+776,Processador Intel® Core™ i7-4500U,2,3.00 GHz
+777,Processador Intel® Core™ i7-4550U,2,3.00 GHz
+778,Processador Intel® Core™ i7-4558U,2,3.30 GHz
+779,Processador Intel® Core™ i7-4650U,2,3.30 GHz
+780,Processador Intel® Core™ i7-4770R,4,3.90 GHz
+781,Processador Intel® Core™ i5-4430,4,3.20 GHz
+782,Processador Intel® Core™ i5-4430S,4,3.20 GHz
+783,Processador Intel® Core™ i5-4570,4,3.60 GHz
+784,Processador Intel® Core™ i5-4570S,4,3.60 GHz
+785,Processador Intel® Core™ i5-4570T,2,3.60 GHz
+786,Processador Intel® Core™ i5-4570TE,2,3.30 GHz
+787,Processador Intel® Core™ i5-4670,4,3.80 GHz
+788,Processador Intel® Core™ i5-4670K,4,3.80 GHz
+789,Processador Intel® Core™ i5-4670S,4,3.80 GHz
+790,Processador Intel® Core™ i5-4670T,4,3.30 GHz
+791,Processador Intel® Core™ i7-4700EQ,4,3.40 GHz
+792,Processador Intel® Core™ i7-4700HQ,4,3.40 GHz
+793,Processador Intel® Core™ i7-4700MQ,4,3.40 GHz
+794,Processador Intel® Core™ i7-4702HQ,4,3.20 GHz
+795,Processador Intel® Core™ i7-4702MQ,4,3.20 GHz
+796,Processador Intel® Core™ i7-4765T,4,3.00 GHz
+797,Processador Intel® Core™ i7-4770,4,3.90 GHz
+798,Processador Intel® Core™ i7-4770K,4,3.90 GHz
+799,Processador Intel® Core™ i7-4770S,4,3.90 GHz
+800,Processador Intel® Core™ i7-4770T,4,3.70 GHz
+801,Processador Intel® Core™ i7-4770TE,4,3.30 GHz
+802,Processador Intel® Core™ i7-4800MQ,4,3.70 GHz
+803,Processador Intel® Core™ i7-4900MQ,4,3.80 GHz
+804,Processador Intel® Core™ i7-4930MX Extreme Edition,4,3.90 GHz
+805,Processador Intel® Core™ i3-3130M,2,
+806,Processador Intel® Core™ i3-3210,2,
+807,Processador Intel® Core™ i3-3227U,2,
+808,Processador Intel® Core™ i5-3230M,2,3.20 GHz
+809,Processador Intel® Core™ i5-3230M,2,3.20 GHz
+810,Processador Intel® Core™ i5-3337U,2,2.70 GHz
+811,Processador Intel® Core™ i5-3340M,2,3.40 GHz
+812,Processador Intel® Core™ i5-3380M,2,3.60 GHz
+813,Processador Intel® Core™ i5-3437U,2,2.90 GHz
+814,Processador Intel® Core™ i7-3537U,2,3.10 GHz
+815,Processador Intel® Core™ i7-3540M,2,3.70 GHz
+816,Processador Intel® Core™ i7-3687U,2,3.30 GHz
+817,Processador Intel® Core™ i3-3229Y,2,
+818,Processador Intel® Core™ i5-3339Y,2,2.00 GHz
+819,Processador Intel® Core™ i5-3439Y,2,2.30 GHz
+820,Processador Intel® Core™ i7-3689Y,2,2.60 GHz
+821,Processador Intel® Core™ i3-2348M,2,
+822,Processador Intel® Core™ i3-2375M,2,
+823,Processador Intel® Core™ i7-3970X Extreme Edition,6,4.00 GHz
+824,Processador Intel® Core™ i3-3120M,2,
+825,Processador Intel® Core™ i7-3630QM,4,3.40 GHz
+826,Processador Intel® Core™ i7-3632QM,4,3.20 GHz
+827,Processador Intel® Core™ i7-3632QM,4,3.20 GHz
+828,Processador Intel® Core™ i7-3635QM,4,3.40 GHz
+829,Processador Intel® Core™ i7-3740QM,4,3.70 GHz
+830,Processador Intel® Core™ i7-3840QM,4,3.80 GHz
+831,Processador Intel® Core™ i7-3940XM Extreme Edition,4,3.90 GHz
+832,Processador Intel® Core™ i3-3220,2,
+833,Processador Intel® Core™ i3-3220T,2,
+834,Processador Intel® Core™ i3-3225,2,
+835,Processador Intel® Core™ i3-3240,2,
+836,Processador Intel® Core™ i3-3240T,2,
+837,Processador Intel® Core™ i5-3330,4,3.20 GHz
+838,Processador Intel® Core™ i5-3330S,4,3.20 GHz
+839,Processador Intel® Core™ i5-3350P,4,3.30 GHz
+840,Processador Intel® Core™ i3-2328M,2,
+841,Processador Intel® Core™ i3-2365M,2,
+842,Processador Intel® Core™ i3-3120ME,2,
+843,Processador Intel® Core™ i3-3217UE,2,
+844,Processador Intel® Core™ i3-2377M,2,
+845,Processador Intel® Core™ i3-3110M,2,
+846,Processador Intel® Core™ i3-3217U,2,
+847,Processador Intel® Core™ i5-3610ME,2,3.30 GHz
+848,Processador Intel® Core™ i7-3517UE,2,2.80 GHz
+849,Processador Intel® Core™ i7-3555LE,2,3.20 GHz
+850,Processador Intel® Core™ i5-3210M,2,3.10 GHz
+851,Processador Intel® Core™ i5-3210M,2,3.10 GHz
+852,Processador Intel® Core™ i5-3317U,2,2.60 GHz
+853,Processador Intel® Core™ i5-3320M,2,3.30 GHz
+854,Processador Intel® Core™ i5-3360M,2,3.50 GHz
+855,Processador Intel® Core™ i5-3427U,2,2.80 GHz
+856,Processador Intel® Core™ i5-3470,4,3.60 GHz
+857,Processador Intel® Core™ i5-3470S,4,3.60 GHz
+858,Processador Intel® Core™ i5-3470T,2,3.60 GHz
+859,Processador Intel® Core™ i5-3475S,4,3.60 GHz
+860,Processador Intel® Core™ i5-3570,4,3.80 GHz
+861,Processador Intel® Core™ i5-3570S,4,3.80 GHz
+862,Processador Intel® Core™ i7-3517U,2,3.00 GHz
+863,Processador Intel® Core™ i7-3520M,2,3.60 GHz
+864,Processador Intel® Core™ i7-3667U,2,3.20 GHz
+865,Processador Intel® Core™ i3-2115C,2,
+866,Processador Intel® Core™ i5-3450,4,3.50 GHz
+867,Processador Intel® Core™ i5-3450S,4,3.50 GHz
+868,Processador Intel® Core™ i5-3550,4,3.70 GHz
+869,Processador Intel® Core™ i5-3550S,4,3.70 GHz
+870,Processador Intel® Core™ i5-3570K,4,3.80 GHz
+871,Processador Intel® Core™ i5-3570T,4,3.30 GHz
+872,Processador Intel® Core™ i7-3610QE,4,3.30 GHz
+873,Processador Intel® Core™ i7-3610QM,4,3.30 GHz
+874,Processador Intel® Core™ i7-3612QE,4,3.10 GHz
+875,Processador Intel® Core™ i7-3612QM,4,3.10 GHz
+876,Processador Intel® Core™ i7-3612QM,4,3.10 GHz
+877,Processador Intel® Core™ i7-3615QE,4,3.30 GHz
+878,Processador Intel® Core™ i7-3615QM,4,3.30 GHz
+879,Processador Intel® Core™ i7-3720QM,4,3.60 GHz
+880,Processador Intel® Core™ i7-3770,4,3.90 GHz
+881,Processador Intel® Core™ i7-3770K,4,3.90 GHz
+882,Processador Intel® Core™ i7-3770S,4,3.90 GHz
+883,Processador Intel® Core™ i7-3770T,4,3.70 GHz
+884,Processador Intel® Core™ i7-3820QM,4,3.70 GHz
+885,Processador Intel® Core™ i7-3920XM Extreme Edition,4,3.80 GHz
+886,Processador Intel® Core™ i7-3820,4,3.80 GHz
+887,Processador Intel® Core™ i5-2380P,4,3.40 GHz
+888,Processador Intel® Core™ i5-2450P,4,3.50 GHz
+889,Processador Intel® Core™ i5-2550K,4,3.80 GHz
+890,Processador Intel® Core™ i3-2370M,2,
+891,Processador Intel® Core™ i5-2450M,2,3.10 GHz
+892,Processador Intel® Core™ i7-3930K,6,3.80 GHz
+893,Processador Intel® Core™ i7-3960X Extreme Edition,6,3.90 GHz
+894,Processador Intel® Core™ i7-2700K,4,3.90 GHz
+895,Processador Intel® Core™ i3-2350M,2,
+896,Processador Intel® Core™ i3-2367M,2,
+897,Processador Intel® Core™ i5-2430M,2,3.00 GHz
+898,Processador Intel® Core™ i5-2435M,2,3.00 GHz
+899,Processador Intel® Core™ i7-2670QM,4,3.10 GHz
+900,Processador Intel® Core™ i7-2675QM,4,3.10 GHz
+901,Processador Intel® Core™ i3-2120T,2,
+902,Processador Intel® Core™ i3-2125,2,
+903,Processador Intel® Core™ i3-2130,2,
+904,Processador Intel® Core™ i5-2320,4,3.30 GHz
+905,Processador Intel® Core™ i7-2640M,2,3.50 GHz
+906,Processador Intel® Core™ i7-2760QM,4,3.50 GHz
+907,Processador Intel® Core™ i7-2860QM,4,3.60 GHz
+908,Processador Intel® Core™ i7-2960XM Extreme Edition,4,3.70 GHz
+909,Processador Intel® Core™ i7-980,6,3.60 GHz
+910,Processador Intel® Core™ i3-2330E,2,
+911,Processador Intel® Core™ i3-2330M,2,
+912,Processador Intel® Core™ i3-2340UE,2,
+913,Processador Intel® Core™ i3-2357M,2,
+914,Processador Intel® Core™ i5-2467M,2,2.30 GHz
+915,Processador Intel® Core™ i5-2557M,2,2.70 GHz
+916,Processador Intel® Core™ i7-2637M,2,2.80 GHz
+917,Processador Intel® Core™ i7-2677M,2,2.90 GHz
+918,Processador Intel® Core™ i5-2310,4,3.20 GHz
+919,Processador Intel® Core™ i5-2405S,4,3.30 GHz
+920,Processador Intel® Core™ i3-2102,2,
+921,Processador Intel® Core™ i3-2105,2,
+922,Processador Intel® Core™ i3-2312M,2,
+923,Processador Intel® Core™ i7-2610UE,2,2.40 GHz
+924,Processador Intel® Core™ i7-2655LE,2,2.90 GHz
+925,Processador Intel® Core™ i3-2100,2,
+926,Processador Intel® Core™ i3-2100T,2,
+927,Processador Intel® Core™ i3-2120,2,
+928,Processador Intel® Core™ i3-2310M,2,
+929,Processador Intel® Core™ i5-2390T,2,3.50 GHz
+930,Processador Intel® Core™ i5-2410M,2,2.90 GHz
+931,Processador Intel® Core™ i5-2510E,2,3.10 GHz
+932,Processador Intel® Core™ i5-2515E,2,3.10 GHz
+933,Processador Intel® Core™ i5-2520M,2,3.20 GHz
+934,Processador Intel® Core™ i5-2537M,2,2.30 GHz
+935,Processador Intel® Core™ i5-2540M,2,3.30 GHz
+936,Processador Intel® Core™ i7-2617M,2,2.60 GHz
+937,Processador Intel® Core™ i7-2620M,2,3.40 GHz
+938,Processador Intel® Core™ i7-2629M,2,3.00 GHz
+939,Processador Intel® Core™ i7-2649M,2,3.20 GHz
+940,Processador Intel® Core™ i7-2657M,2,2.70 GHz
+941,Processador Intel® Core™ i7-990X Extreme Edition,6,3.73 GHz
+942,Processador Intel® Core™ i5-2300,4,3.10 GHz
+943,Processador Intel® Core™ i5-2400,4,3.40 GHz
+944,Processador Intel® Core™ i5-2400S,4,3.30 GHz
+945,Processador Intel® Core™ i5-2500,4,3.70 GHz
+946,Processador Intel® Core™ i5-2500K,4,3.70 GHz
+947,Processador Intel® Core™ i5-2500S,4,3.70 GHz
+948,Processador Intel® Core™ i5-2500T,4,3.30 GHz
+949,Processador Intel® Core™ i7-2600,4,3.80 GHz
+950,Processador Intel® Core™ i7-2600K,4,3.80 GHz
+951,Processador Intel® Core™ i7-2600S,4,3.80 GHz
+952,Processador Intel® Core™ i7-2630QM,4,2.90 GHz
+953,Processador Intel® Core™ i7-2635QM,4,2.90 GHz
+954,Processador Intel® Core™ i7-2710QE,4,3.00 GHz
+955,Processador Intel® Core™ i7-2715QE,4,3.00 GHz
+956,Processador Intel® Core™ i7-2720QM,4,3.30 GHz
+957,Processador Intel® Core™ i7-2820QM,4,3.40 GHz
+958,Processador Intel® Core™ i7-2920XM Extreme Edition,4,3.50 GHz
+959,Processador Intel® Core™ i3-2310E,2,
+960,Processador Intel® Core™ i3-390M,2,
+961,Processador Intel® Core™ i5-480M,2,2.93 GHz
+962,Processador Intel® Core™ i3-380UM,2,
+963,Processador Intel® Core™ i5-470UM,2,1.86 GHz
+964,Processador Intel® Core™ i3-560,2,
+965,Processador Intel® Core™ i5-760,4,3.33 GHz
+966,Processador Intel® Core™ i3-370M,2,
+967,Processador Intel® Core™ i3-380M,2,
+968,Processador Intel® Core™ i5-460M,2,2.80 GHz
+969,Processador Intel® Core™ i5-560M,2,3.20 GHz
+970,Processador Intel® Core™ i5-560UM,2,2.13 GHz
+971,Processador Intel® Core™ i5-580M,2,3.33 GHz
+972,Processador Intel® Core™ i7-640M,2,3.46 GHz
+973,Processador Intel® Core™ i7-660LM,2,3.06 GHz
+974,Processador Intel® Core™ i7-680UM,2,2.53 GHz
+975,Processador Intel® Core™ i7-740QM,4,2.93 GHz
+976,Processador Intel® Core™ i7-840QM,4,3.20 GHz
+977,Processador Intel® Core™ i7-940XM Extreme Edition,4,3.33 GHz
+978,Processador Intel® Core™ i7-970,6,3.46 GHz
+979,Processador Intel® Core™ i3-550,2,
+980,Processador Intel® Core™ i5-655K,2,3.46 GHz
+981,Processador Intel® Core™ i7-875K,4,3.60 GHz
+982,Processador Intel® Core™ i7-880,4,3.73 GHz
+983,Processador Intel® Core™ i3-330UM,2,
+984,Processador Intel® Core™ i5-430UM,2,1.73 GHz
+985,Processador Intel® Core™ i5-540UM,2,2.00 GHz
+986,Processador Intel® Core™ i7-660UM,2,2.40 GHz
+987,Processador Intel® Core™ i5-450M,2,2.66 GHz
+988,Processador Intel® Core™ i5-680,2,3.86 GHz
+989,Processador Intel® Core™ i7-870S,4,3.60 GHz
+990,Processador Intel® Core™ i7-980X Extreme Edition,6,3.60 GHz
+991,Processador Intel® Core™ i3-530,2,
+992,Processador Intel® Core™ i3-540,2,
+993,Processador Intel® Core™ i5-520E,2,2.93 GHz
+994,Processador Intel® Core™ i5-520M,2,2.93 GHz
+995,Processador Intel® Core™ i5-520UM,2,1.87 GHz
+996,Processador Intel® Core™ i7-610E,2,3.20 GHz
+997,Processador Intel® Core™ i7-620LE,2,2.80 GHz
+998,Processador Intel® Core™ i7-620UE,2,2.13 GHz
+999,Processador Intel® Core™ i7-640UM,2,2.27 GHz
