@@ -1,5 +1,3 @@
-# -------------------------------------------------------------------------------------------------------------------------------------------
-
 # Comparison Between Minimum Requirements and Actual Player Hardware
 
 This project analyzes the compatibility between the minimum game requirements and the actual hardware of players, extracting and processing data to identify discrepancies and trends.
@@ -46,8 +44,9 @@ Este projeto analisa a compatibilidade entre os requisitos mínimos dos jogos e 
 7. Extração dos dados do CanYouRunIt
 
 ## 🔄 Semana 2: Processamento e limpeza (Em Andamento)
+
 1. Gerar as tabelas
-   
+ 
 ## 🔄 Semana 3: Análise exploratória (gráficos e identificação de outliers).
 
 ## 🔄 Semana 4: Comparação do hardware dos jogadores vs. requisitos dos jogos.
@@ -57,3 +56,9 @@ Este projeto analisa a compatibilidade entre os requisitos mínimos dos jogos e 
 ## 🔄 Semana 6: Insights e predições (clusters de jogadores, modelos preditivos).
 
 ## 🔄 Semana 7: Relatório final e dashboard interativo com Streamlit.
+
+## 🔄 Semana 7: Relatório final e dashboard interativo com Streamlit.
+
+## Tecnologias utilizadas
+
+Python (Pandas, Seaborn, Selenium)
