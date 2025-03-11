@@ -1,4 +1,4 @@
-# Comparison Between Minimum Requirements and Actual Player Hardware
+# (EN) Comparison Between Minimum Requirements and Actual Player Hardware
 
 This project analyzes the compatibility between the minimum game requirements and the actual hardware of players, extracting and processing data to identify discrepancies and trends.
 
@@ -26,9 +26,7 @@ This project analyzes the compatibility between the minimum game requirements an
 
 ## 🔄 Week 7: Final report and interactive dashboard with Streamlit.
 
-# -------------------------------------------------------------------------------------------------------------------------------------------
-
-# Comparação Entre Requisitos Mínimos e Hardware Real dos Jogadores
+# (PT-BR) Comparação Entre Requisitos Mínimos e Hardware Real dos Jogadores
 
 Este projeto analisa a compatibilidade entre os requisitos mínimos dos jogos e o hardware real dos jogadores, extraindo e processando dados para identificar discrepâncias e tendências.
 
