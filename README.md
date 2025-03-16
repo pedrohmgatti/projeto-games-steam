@@ -1,4 +1,3 @@
-# EN
 # Comparison Between Minimum Requirements and Actual Player Hardware
 
 This project analyzes the compatibility between the minimum game requirements and the actual hardware of players, extracting and processing data to identify discrepancies and trends.
@@ -33,7 +32,7 @@ This project analyzes the compatibility between the minimum game requirements an
 ## 🔄 Week 7: Final report and interactive dashboard with Streamlit.
 
 # -------------------------------------------------------------------------------------------------------------------------------------------
-# PT-BR
+
 # Comparação Entre Requisitos Mínimos e Hardware Real dos Jogadores
 
 Este projeto analisa a compatibilidade entre os requisitos mínimos dos jogos e o hardware real dos jogadores, extraindo e processando dados para identificar discrepâncias e tendências.
@@ -67,3 +66,9 @@ Este projeto analisa a compatibilidade entre os requisitos mínimos dos jogos e 
 ## 🔄 Semana 6: Insights e predições (clusters de jogadores, modelos preditivos).
 
 ## 🔄 Semana 7: Relatório final e dashboard interativo com Streamlit.
+
+## 🔄 Semana 7: Relatório final e dashboard interativo com Streamlit.
+
+## Tecnologias utilizadas
+
+Python (Pandas, Seaborn, Selenium)
