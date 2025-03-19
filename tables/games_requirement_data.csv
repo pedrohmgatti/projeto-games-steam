@@ -1,46 +1,46 @@
 ,game_name,release_date,genre,developer,publisher,cpu_minimum,ram_minimum,gpu_minimum,cpu_recommended,ram_recommended,gpu_recommended
 0,Grand Theft Auto V,2015. April 14.,"Action, Adventure",Rockstar North,Rockstar Games,Intel® Core™ 2 Quad CPU,4 GB,,Intel® Core™ i5-3470,8 GB,NVIDIA GeForce GTX 660
 1,Split Fiction,2025. March 06.,"Action, Adventure",Hazelight Studios,Electronic Arts,Intel® Core™ i5-6600K,16 GB,NVIDIA GeForce GTX 970,Intel® Core™ i7-11700K,16 GB,NVIDIA GeForce RTX 3070
-2,Assassin's Creed Shadows,2025. March 20.,"Action, Adventure",Ubisoft Quebec,Ubisoft,Intel® Core™ i7-8700K,16 GB,NVIDIA GeForce RTX 1070,Intel® Core™ i5-11600K,16 GB,NVIDIA GeForce RTX 3060 TI
+2,Assassin's Creed Shadows,2025. March 20.,"Action, Adventure",Ubisoft Quebec,Ubisoft,Intel® Core™ i7-8700K,16 GB,NVIDIA GeForce GTX 1070,Intel® Core™ i5-11600K,16 GB,NVIDIA GeForce RTX 3060 Ti
 3,inZOI,2025. March 28.,"Simulation, Life simulation",inZOI Studio,Krafton,Intel® Core™ i5-10400,12 GB,NVIDIA GeForce RTX 2060,Intel® Core™ i7-12700,16 GB,NVIDIA GeForce RTX 3070
-4,FragPunk,2025. March 07.,"Action, FPS",Bad Guitar Studio,Bad Guitar Studio,Intel® Core™ i7-4790,8 GB,NVIDIA GeForce GTX 750 TI,Intel® Core™ i7-10700K,16 GB,NVIDIA GeForce RTX 3060
-5,Monster Hunter Wilds,2025. February 28.,"Action, Role-playing game",CAPCOM,CAPCOM,Intel® Core™ i5-10400,16 GB,NVIDIA GeForce RTX 1660,Intel® Core™ i5-10400,16 GB,NVIDIA GeForce RTX 2060 SUPER
+4,FragPunk,2025. March 07.,"Action, FPS",Bad Guitar Studio,Bad Guitar Studio,Intel® Core™ i7-4790,8 GB,NVIDIA GeForce GTX 750 Ti,Intel® Core™ i7-10700K,16 GB,NVIDIA GeForce RTX 3060
+5,Monster Hunter Wilds,2025. February 28.,"Action, Role-playing game",CAPCOM,CAPCOM,Intel® Core™ i5-10400,16 GB,NVIDIA GeForce GTX 1660,Intel® Core™ i5-10400,16 GB,NVIDIA GeForce RTX 2060 SUPER
 6,Fortnite,2017. July 25.,"Action, Battle Royale",Epic Games,Epic Games,Intel® Core™ i3-3225,8 GB,,Intel® Core™ i5-7300U,16 GB,NVIDIA GeForce GTX 960
-7,Cyberpunk 2077,2020. December 10.,"Action, Adventure, Role-playing game",CD Projekt RED,CD Projekt RED,Intel® Core™ i7-6700,12 GB,NVIDIA GeForce RTX 1060,Intel® Core™ i7-12700,16 GB,NVIDIA GeForce RTX 2060 SUPER
-8,Rise of the Ronin,2025. March 11.,"Action, Role-playing game",Koei Tecmo,Koei Tecmo,Intel® Core™ i5-10400,16 GB,NVIDIA GeForce RTX 1060,Intel® Core™ i5-10600K,16 GB,NVIDIA GeForce RTX 2080 SUPER
-9,Kingdom Come: Deliverance II,2025. February 04.,"Action, Role-playing game",Warhorse Studios,Deep Silver,Intel® Core™ i5-8400,16 GB,NVIDIA GeForce RTX 1060,Intel® Core™ i5-13600K,24 GB,NVIDIA GeForce RTX 3060
-10,Red Dead Redemption 2,2019. November 05.,"Action, Adventure",Rockstar Games,Rockstar Games,Intel® Core™ i5-2500K,8 GB,NVIDIA GeForce GTX 770,Intel® Core™ i7-4770K,12 GB,NVIDIA GeForce RTX 1060
-11,eFootball,2021. September 30.,"Simulation, Sports",Konami Digital Entertainment,Konami Digital Entertainment,Intel® Core™ i5-2300,8 GB,NVIDIA GeForce GTX 660 TI,Intel® Core™ i5-7600,8 GB,NVIDIA GeForce RTX 1060
-12,Farming Simulator 25,2024. November 12.,"Simulation, Farming simulation",Giants Software,Giants Software,Intel® Core™ i5-6400,8 GB,NVIDIA GeForce RTX 1050 TI,Intel® Core™ i7-10700,12 GB,NVIDIA GeForce RTX 2070
-13,EA SPORTS FC 25,2024. September 27.,"Simulation, Sports","EA Canada, EA Romania",Electronic Arts,Intel® Core™ i5-6600k,8 GB,NVIDIA GeForce RTX 1050 TI,Intel® Core™ i7-6700,12 GB,NVIDIA GeForce RTX 1660
+7,Cyberpunk 2077,2020. December 10.,"Action, Adventure, Role-playing game",CD Projekt RED,CD Projekt RED,Intel® Core™ i7-6700,12 GB,NVIDIA GeForce GTX 1060,Intel® Core™ i7-12700,16 GB,NVIDIA GeForce RTX 2060 SUPER
+8,Rise of the Ronin,2025. March 11.,"Action, Role-playing game",Koei Tecmo,Koei Tecmo,Intel® Core™ i5-10400,16 GB,NVIDIA GeForce GTX 1060,Intel® Core™ i5-10600K,16 GB,NVIDIA GeForce RTX 2080 SUPER
+9,Kingdom Come: Deliverance II,2025. February 04.,"Action, Role-playing game",Warhorse Studios,Deep Silver,Intel® Core™ i5-8400,16 GB,NVIDIA GeForce GTX 1060,Intel® Core™ i5-13600K,24 GB,NVIDIA GeForce RTX 3060
+10,Red Dead Redemption 2,2019. November 05.,"Action, Adventure",Rockstar Games,Rockstar Games,Intel® Core™ i5-2500K,8 GB,NVIDIA GeForce GTX 770,Intel® Core™ i7-4770K,12 GB,NVIDIA GeForce GTX 1060
+11,eFootball,2021. September 30.,"Simulation, Sports",Konami Digital Entertainment,Konami Digital Entertainment,Intel® Core™ i5-2300,8 GB,NVIDIA GeForce GTX 660 Ti,Intel® Core™ i5-7600,8 GB,NVIDIA GeForce GTX 1060
+12,Farming Simulator 25,2024. November 12.,"Simulation, Farming simulation",Giants Software,Giants Software,Intel® Core™ i5-6400,8 GB,NVIDIA GeForce GTX 1050 Ti,Intel® Core™ i7-10700,12 GB,NVIDIA GeForce RTX 2070
+13,EA SPORTS FC 25,2024. September 27.,"Simulation, Sports","EA Canada, EA Romania",Electronic Arts,Intel® Core™ i5-6600k,8 GB,NVIDIA GeForce GTX 1050 Ti,Intel® Core™ i7-6700,12 GB,NVIDIA GeForce GTX 1660
 14,Tom Clancy's Rainbow Six Siege,2015. December 01.,"Action, FPS, Tactical shooter",Ubisoft Montreal,Ubisoft,Intel® Core™ i3-560,6 GB,NVIDIA GeForce GTX 460,Intel® Core™ i5-2500K,8 GB,NVIDIA GeForce GTX 670
 15,The Last of Us Part I,2023. March 28.,"Action, Adventure","Iron Galaxy Studios, Naughty Dog",PlayStation Publishing,Intel® Core™ i7-4770K,16 GB,NVIDIA GeForce GTX 970,Intel® Core™ i7-8700,16 GB,NVIDIA GeForce RTX 2070 SUPER
-16,Detroit: Become Human,2019. December 12.,Adventure,Quantic Dream,Quantic Dream,Intel® Core™ i5-2300,8 GB,NVIDIA GeForce GTX 780,Intel® Core™ i5-6600,12 GB,NVIDIA GeForce RTX 1060
-17,Euro Truck Simulator 2,2012. October 18.,Simulation,SCS Software,SCS Software,Intel® Core™ i5-6400,8 GB,NVIDIA GeForce GTX 660,Intel® Core™ i5-9600,12 GB,NVIDIA GeForce RTX 1660
-18,Marvel Rivals,2024. December 06.,"Action, TPS",NetEase Games,NetEase Games,Intel® Core™ i5-6600K,16 GB,NVIDIA GeForce RTX 1060,Intel® Core™ i5-10400,16 GB,NVIDIA GeForce RTX 2060
-19,Delta Force,2024. December 05.,"Action, FPS, Tactical shooter, MMO",Team Jade,TiMi Studio Group,Intel® Core™ i3-4150,8 GB,NVIDIA GeForce GTX 660,Intel® Core™ i5-6500,16 GB,NVIDIA GeForce RTX 1060
-20,S.T.A.L.K.E.R. 2: Heart of Chornobyl,2024. November 20.,"Action, FPS, Survival horror",GSC Game World,GSC Game World,Intel® Core™ i7-7700K,16 GB,NVIDIA GeForce RTX 1060,Intel® Core™ i7-11700,32 GB,NVIDIA GeForce RTX 3070 TI
-21,Forza Horizon 5,2021. November 05.,"Simulation, Racing",Playground Games,Xbox Game Studios,Intel® Core™ i5-4460,8 GB,NVIDIA GeForce GTX 970,Intel® Core™ i5-8400,16 GB,NVIDIA GeForce RTX 1070
+16,Detroit: Become Human,2019. December 12.,Adventure,Quantic Dream,Quantic Dream,Intel® Core™ i5-2300,8 GB,NVIDIA GeForce GTX 780,Intel® Core™ i5-6600,12 GB,NVIDIA GeForce GTX 1060
+17,Euro Truck Simulator 2,2012. October 18.,Simulation,SCS Software,SCS Software,Intel® Core™ i5-6400,8 GB,NVIDIA GeForce GTX 660,Intel® Core™ i5-9600,12 GB,NVIDIA GeForce GTX 1660
+18,Marvel Rivals,2024. December 06.,"Action, TPS",NetEase Games,NetEase Games,Intel® Core™ i5-6600K,16 GB,NVIDIA GeForce GTX 1060,Intel® Core™ i5-10400,16 GB,NVIDIA GeForce RTX 2060
+19,Delta Force,2024. December 05.,"Action, FPS, Tactical shooter, MMO",Team Jade,TiMi Studio Group,Intel® Core™ i3-4150,8 GB,NVIDIA GeForce GTX 660,Intel® Core™ i5-6500,16 GB,NVIDIA GeForce GTX 1060
+20,S.T.A.L.K.E.R. 2: Heart of Chornobyl,2024. November 20.,"Action, FPS, Survival horror",GSC Game World,GSC Game World,Intel® Core™ i7-7700K,16 GB,NVIDIA GeForce GTX 1060,Intel® Core™ i7-11700,32 GB,NVIDIA GeForce RTX 3070 Ti
+21,Forza Horizon 5,2021. November 05.,"Simulation, Racing",Playground Games,Xbox Game Studios,Intel® Core™ i5-4460,8 GB,NVIDIA GeForce GTX 970,Intel® Core™ i5-8400,16 GB,NVIDIA GeForce GTX 1070
 22,Ghost of Tsushima,2024. May 16.,"Action, Adventure","Nixxes Software, Sucker Punch Productions",PlayStation Publishing,Intel® Core™ i3-7100,8 GB,NVIDIA GeForce GTX 960,Intel® Core™ i5-8600,16 GB,NVIDIA GeForce RTX 2060
-23,Marvel's Spider-Man 2,2025. January 30.,"Action, Adventure","Insomniac Games, Nixxes Software",PlayStation Publishing,Intel® Core™ i3-8100,16 GB,NVIDIA GeForce RTX 1650,Intel® Core™ i5-8400,16 GB,NVIDIA GeForce RTX 3060
-24,ELDEN RING,2022. February 25.,"Action, Role-playing game, Souls-like",FromSoftware,"Bandai Namco Entertainment, FromSoftware",Intel® Core™ i5-8400,12 GB,NVIDIA GeForce RTX 1060,Intel® Core™ i7-8700K,16 GB,NVIDIA GeForce RTX 1070
-25,Resident Evil 4 Remake,2023. March 24.,"Action, Survival horror",CAPCOM,CAPCOM,Intel® Core™ i5-7500,8 GB,NVIDIA GeForce RTX 1050 TI,Intel® Core™ i7-8700,16 GB,NVIDIA GeForce RTX 1070
-26,Indiana Jones and the Great Circle,2024. December 09.,"Action, Adventure, First-person",Machine Games,Bethesda Softworks,Intel® Core™ i7-10700K,16 GB,NVIDIA GeForce RTX 2060 SUPER,Intel® Core™ i7-12700K,32 GB,NVIDIA GeForce RTX 3080 TI
-27,Battlefield 3,2011. October 28.,"Action, FPS",DICE,Electronic Arts,,2 GB,NVIDIA GeForce RTX 8800,,4 GB,NVIDIA GeForce GTX 560
-28,Minecraft,2011. November 18.,"Action, Survival",Mojang,Mojang,Intel® Core™ i3-3210,42 GB,NVIDIA GeForce GTX 400,Intel® Core™ i5-4690,84 GB,NVIDIA GeForce GTX 700
-29,Hogwarts Legacy,2023. February 10.,"Action, Adventure, Role-playing game",Avalanche Software,Warner Bros. Games,Intel® Core™ i5-6600,16 GB,NVIDIA GeForce GTX 960,Intel® Core™ i7-8700,16 GB,NVIDIA GeForce RTX 1080 TI
-30,Kingdom Come: Deliverance,2018. February 13.,"Action, Adventure, Role-playing game",Warhorse Studios,"Deep Silver, Warhorse Studios",Intel® Core™ i5-2500K,8 GB,NVIDIA GeForce GTX 660,Intel® Core™ i7-3770,16 GB,NVIDIA GeForce RTX 1060
+23,Marvel's Spider-Man 2,2025. January 30.,"Action, Adventure","Insomniac Games, Nixxes Software",PlayStation Publishing,Intel® Core™ i3-8100,16 GB,NVIDIA GeForce GTX 1650,Intel® Core™ i5-8400,16 GB,NVIDIA GeForce RTX 3060
+24,ELDEN RING,2022. February 25.,"Action, Role-playing game, Souls-like",FromSoftware,"Bandai Namco Entertainment, FromSoftware",Intel® Core™ i5-8400,12 GB,NVIDIA GeForce GTX 1060,Intel® Core™ i7-8700K,16 GB,NVIDIA GeForce GTX 1070
+25,Resident Evil 4 Remake,2023. March 24.,"Action, Survival horror",CAPCOM,CAPCOM,Intel® Core™ i5-7500,8 GB,NVIDIA GeForce GTX 1050 Ti,Intel® Core™ i7-8700,16 GB,NVIDIA GeForce GTX 1070
+26,Indiana Jones and the Great Circle,2024. December 09.,"Action, Adventure, First-person",Machine Games,Bethesda Softworks,Intel® Core™ i7-10700K,16 GB,NVIDIA GeForce RTX 2060 SUPER,Intel® Core™ i7-12700K,32 GB,NVIDIA GeForce RTX 3080 Ti
+27,Battlefield 3,2011. October 28.,"Action, FPS",DICE,Electronic Arts,,2 GB,,,4 GB,NVIDIA GeForce GTX 560
+28,Minecraft,2011. November 18.,"Action, Survival",Mojang,Mojang,Intel® Core™ i3-3210,42 GB,,Intel® Core™ i5-4690,84 GB,
+29,Hogwarts Legacy,2023. February 10.,"Action, Adventure, Role-playing game",Avalanche Software,Warner Bros. Games,Intel® Core™ i5-6600,16 GB,NVIDIA GeForce GTX 960,Intel® Core™ i7-8700,16 GB,
+30,Kingdom Come: Deliverance,2018. February 13.,"Action, Adventure, Role-playing game",Warhorse Studios,"Deep Silver, Warhorse Studios",Intel® Core™ i5-2500K,8 GB,NVIDIA GeForce GTX 660,Intel® Core™ i7-3770,16 GB,NVIDIA GeForce GTX 1060
 31,The Witcher 3: Wild Hunt,2015. May 19.,"Action, Role-playing game",CD Projekt RED,CD Projekt RED,Intel® Core™ i5-2500K,6 GB,NVIDIA GeForce GTX 660,Intel® Core™ i7-3770,8 GB,NVIDIA GeForce GTX 770
-32,Call of Duty: Black Ops 6,2024. October 25.,"Action, FPS","Raven Software, Treyarch",Activision,Intel® Core™ i5-6600,8 GB,NVIDIA GeForce GTX 960,Intel® Core™ i7-6700K,12 GB,NVIDIA GeForce RTX 1080 TI
-33,Call of Duty 4: Modern Warfare,2007. November 05.,"Action, FPS",Infinity Ward,Activision,,512768 GB,NVIDIA GeForce RTX 6600,,12 GB,NVIDIA GeForce RTX 7800
-34,God of War Ragnarök,2024. September 19.,"Action, Adventure, Role-playing game","Jetpack Interactive, Santa Monica Studio",PlayStation Publishing,Intel® Core™ i5-4670K,8 GB,NVIDIA GeForce RTX 1060,Intel® Core™ i5-8600,16 GB,NVIDIA GeForce RTX 2060 SUPER
-35,Pro Evolution Soccer 2017,2016. September 15.,Sports,Konami Digital Entertainment,Konami Digital Entertainment,Intel® Core™ 2 Duo 1,1 GB,NVIDIA GeForce RTX 8800,Intel® Core™ i3-530,2 GB,NVIDIA GeForce GTX 260
-36,ARK: Survival Ascended,2023. October 26.,"Survival, MMO","Grove Street Games, Instinct Games, Studio Wildcard","Snail Games USA, Studio Wildcard",Intel® Core™ i7-6800K,16 GB,NVIDIA GeForce RTX 1080,Intel® Core™ i5-10600K,32 GB,NVIDIA GeForce RTX 3080
-37,Valorant,2020. June 02.,"Action, FPS",Riot Games,Riot Games,Intel® Core™ 2 Duo E8400,4 GB,,Intel® Core™ i3-4150,4 GB,NVIDIA GeForce GTX 730
+32,Call of Duty: Black Ops 6,2024. October 25.,"Action, FPS","Raven Software, Treyarch",Activision,Intel® Core™ i5-6600,8 GB,NVIDIA GeForce GTX 960,Intel® Core™ i7-6700K,12 GB,NVIDIA GeForce GTX 1080 Ti
+33,Call of Duty 4: Modern Warfare,2007. November 05.,"Action, FPS",Infinity Ward,Activision,,512768 GB,,,12 GB,
+34,God of War Ragnarök,2024. September 19.,"Action, Adventure, Role-playing game","Jetpack Interactive, Santa Monica Studio",PlayStation Publishing,Intel® Core™ i5-4670K,8 GB,NVIDIA GeForce GTX 1060,Intel® Core™ i5-8600,16 GB,NVIDIA GeForce RTX 2060 SUPER
+35,Pro Evolution Soccer 2017,2016. September 15.,Sports,Konami Digital Entertainment,Konami Digital Entertainment,Intel® Core™ 2 Duo 1,1 GB,,Intel® Core™ i3-530,2 GB,NVIDIA GeForce GTX 260
+36,ARK: Survival Ascended,2023. October 26.,"Survival, MMO","Grove Street Games, Instinct Games, Studio Wildcard","Snail Games USA, Studio Wildcard",Intel® Core™ i7-6800K,16 GB,,Intel® Core™ i5-10600K,32 GB,NVIDIA GeForce RTX 3080
+37,Valorant,2020. June 02.,"Action, FPS",Riot Games,Riot Games,Intel® Core™ 2 Duo E8400,4 GB,,Intel® Core™ i3-4150,4 GB,NVIDIA GeForce GT 730
 38,Forza Horizon 4,2018. October 02.,Racing,Playground Games,Xbox Game Studios,Intel® Core™ i3-4170,8 GB,,Intel® Core™ i7-3820,12 GB,NVIDIA GeForce GTX 970
-39,FIFA 14,2013. September 27.,Sports,EA Canada,EA Sports,,27 GB,NVIDIA GeForce RTX 6800,Intel® Core™ 2 Quad Q6600,27 GB,
-40,Black Myth: Wukong,2024. August 20.,"Action, Role-playing game",Game Science Studio,Game Science Studio,Intel® Core™ i5-8400,16 GB,NVIDIA GeForce RTX 1060,Intel® Core™ i7-9700,16 GB,NVIDIA GeForce RTX 2060
+39,FIFA 14,2013. September 27.,Sports,EA Canada,EA Sports,,27 GB,,Intel® Core™ 2 Quad Q6600,27 GB,
+40,Black Myth: Wukong,2024. August 20.,"Action, Role-playing game",Game Science Studio,Game Science Studio,Intel® Core™ i5-8400,16 GB,NVIDIA GeForce GTX 1060,Intel® Core™ i7-9700,16 GB,NVIDIA GeForce RTX 2060
 41,Far Cry 3,2012. November 29.,"Action, Adventure, FPS",Ubisoft Montreal,Ubisoft,Intel® Core™ 2 Duo E6700,2478 GB,,Intel® Core™ i3-530,4 GB,
-42,HELLDIVERS 2,2024. February 08.,"Action, TPS",Arrowhead Game Studios,PlayStation Publishing,Intel® Core™ i7-4790K,8 GB,NVIDIA GeForce RTX 1050 TI,Intel® Core™ i7-9700K,16 GB,NVIDIA GeForce RTX 2060
-43,Avowed,2025. February 18.,"Role-playing game, First-person",Obsidian Entertainment,Xbox Game Studios,Intel® Core™ i5-8400,16 GB,NVIDIA GeForce RTX 1070,Intel® Core™ i7-10700K,16 GB,NVIDIA GeForce RTX 3080
-44,Silent Hill 2 Remake,2024. October 08.,Survival horror,Bloober Team,Konami Digital Entertainment,Intel® Core™ i7-6700K,16 GB,NVIDIA GeForce RTX 1070 TI,Intel® Core™ i7-8700K,16 GB,NVIDIA GeForce RTX 2080
+42,HELLDIVERS 2,2024. February 08.,"Action, TPS",Arrowhead Game Studios,PlayStation Publishing,Intel® Core™ i7-4790K,8 GB,NVIDIA GeForce GTX 1050 Ti,Intel® Core™ i7-9700K,16 GB,NVIDIA GeForce RTX 2060
+43,Avowed,2025. February 18.,"Role-playing game, First-person",Obsidian Entertainment,Xbox Game Studios,Intel® Core™ i5-8400,16 GB,NVIDIA GeForce GTX 1070,Intel® Core™ i7-10700K,16 GB,NVIDIA GeForce RTX 3080
+44,Silent Hill 2 Remake,2024. October 08.,Survival horror,Bloober Team,Konami Digital Entertainment,Intel® Core™ i7-6700K,16 GB,NVIDIA GeForce GTX 1070 Ti,Intel® Core™ i7-8700K,16 GB,NVIDIA GeForce RTX 2080

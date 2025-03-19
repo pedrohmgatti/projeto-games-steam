@@ -21,7 +21,11 @@ This project analyzes the compatibility between the minimum game requirements an
 4. Standardize CPU names using the Intel website as parameter
 6. Standardize RAM capacity using the Steam Hardware Survey as parameter
 
-## 🔄 Week 3: Data Cleaning and EDA (In Progress)
+## 🔄 Week 3: Exploratpry Data Analysis (In Progress)
+1. Convert reales_date to datetime
+2. Join Market Share table and Game Requirements table
+3. Extract benchmark data from Benchamarks website
+4. Join Benchmark Score table and Game Requirements table
 
 ## 🔄 Week 4: Comparison of player hardware vs. game requirements.
 
@@ -49,7 +53,6 @@ Este projeto analisa a compatibilidade entre os requisitos mínimos dos jogos e 
 7. Extrair os dados dos dados do site CanYouRunIt
 
 ## ✅ Semana 2: Processamento dos dados (Concluída)
-
 1. Generate tables
 2. Correção o código system_requirements_website_data (trocar colunas de GPU e RAM)
 3. Extrair os dados do site SystemRequirements (será usado ao invés do CanYouRunIt)
@@ -57,7 +60,11 @@ Este projeto analisa a compatibilidade entre os requisitos mínimos dos jogos e 
 4. Padronizar os nomes de CPU utilizando o site da Intel como base
 6. Padronizar a capacidade de RAM utilizando a pesquisa de Harware da Steam
  
-## 🔄 Semana 3: Limpeza e Análise exploratória dos Dados (Em andamento)
+## 🔄 Semana 3: Análise exploratória dos Dados (Em andamento)
+1. Converter release_date para tipo datetime
+2. Juntar a fatia de mercado nas tabelas de requerimento
+3. Extrair os dados de benchmark do site Benchmarks
+4. Juntar as pontuações de benchmark nas tabelas de requerimento
 
 ## 🔄 Semana 4: Comparação do hardware dos jogadores vs. requisitos dos jogos.
 
