@@ -21,13 +21,22 @@ This project analyzes the compatibility between the minimum game requirements an
 4. Standardize CPU names using the Intel website as parameter
 6. Standardize RAM capacity using the Steam Hardware Survey as parameter
 
-## 🔄 Week 3: Exploratpry Data Analysis (In Progress)
+## ✅ Week 3: Exploratpry Data Analysis (Completed)
 1. Convert reales_date to datetime
 2. Join Market Share table and Game Requirements table
 3. Extract benchmark data from Benchamarks website
 4. Join Benchmark Score table and Game Requirements table
+5. Create new tables
 
-## 🔄 Week 4: Comparison of player hardware vs. game requirements.
+## 🔄 Week 4: Comparison of player hardware vs. game requirements (In Progress)
+1. Modify the benchmark code to extract GPU data from notebooks
+2. Changes in the processing code
+    - Create a code to update/create tables
+    - Merge benchmark scores into the GPU table
+    - Modify the requirements table to include only the minimum and recommended benchmark scores
+3. Most dominant graphics cards in the market
+    - Which games they can run
+    - How many games they can run
 
 ## 🔄 Week 5: Evolution of game requirements over time.
 
@@ -60,13 +69,23 @@ Este projeto analisa a compatibilidade entre os requisitos mínimos dos jogos e 
 4. Padronizar os nomes de CPU utilizando o site da Intel como base
 6. Padronizar a capacidade de RAM utilizando a pesquisa de Harware da Steam
  
-## 🔄 Semana 3: Análise exploratória dos Dados (Em andamento)
+## ✅ Semana 3: Análise exploratória dos Dados (Concluída)
 1. Converter release_date para tipo datetime
 2. Juntar a fatia de mercado nas tabelas de requerimento
 3. Extrair os dados de benchmark do site Benchmarks
 4. Juntar as pontuações de benchmark nas tabelas de requerimento
+5. Construir tabelas auxiliares
 
-## 🔄 Semana 4: Comparação do hardware dos jogadores vs. requisitos dos jogos.
+## 🔄 Semana 4: Comparação do hardware dos jogadores vs. requisitos dos jogos (Em Andamento)
+1. Alteração no código de benchmark para extrair GPU de notebooks
+2. Alterações no código de processamento
+    - Criar um código para atualizar/criar tabelas
+    - Juntar as pontuações de benchmark na tabela de GPU
+    - Alterar a tabela de requerimentos para que ela contenha apenas a pontuação mínima e recomendada de benchmark
+    - Salvar novas tabelas
+3. Placas mais dominantes no mercado
+    - Quais jogos elas conseguem rodar
+    - Quantos jogos elas conseguem rodar
 
 ## 🔄 Semana 5: Evolução dos requisitos ao longo do tempo.
 
