@@ -1,94 +1,71 @@
-# (EN) Comparison Between Minimum Requirements and Actual Player Hardware
+# **EN**
+# **Comparison Between Minimum Requirements and Actual Player Hardware**
 
-This project analyzes the compatibility between the minimum game requirements and the actual hardware of players, extracting and processing data to identify discrepancies and trends.
+This project aims to perform a descriptive analysis and compare the Minimum and Recommended Requirements of a list of games. Additionally, it seeks to draw conclusions about the optimization of the most recent titles. For this initial study, the analysis focused exclusively on NVIDIA GPUs, considering that this is the most expensive component of a gaming PC.
 
-## ✅ Week 1: Data Collection (Completed)
-1. Define detailed project scope:
-    - Use popular and trending games
-2. Research and select data sources:
-    - Steam Hardware Survey and the list of popular games from CanYouRunIt
-3. Extract GPU data from the Steam Hardware Survey
-4. Extract VRAM data from the Steam Hardware Survey
-5. Extract RAM data from the Steam Hardware Survey
-6. Extract processor data from Intel’s website
-7. Extract data from CanYouRunIt website
+The project was structured into three main stages: **Data Extraction, Data Processing, and Exploratory Analysis**.
 
-## ✅ Week 2: Data Processing (Completed)
-1. Generate tables
-2. Fix the system_requirements_website_data code (switch GPU and RAM columns)
-3. Extract data from SystemRequirements website (will be used instead of CanYouRunIt)
-5. Standardize GPU names using the Steam Hardware Survey as parameter
-4. Standardize CPU names using the Intel website as parameter
-6. Standardize RAM capacity using the Steam Hardware Survey as parameter
+## Data Extraction
+- Web scraping was performed using the Selenium library.
+- Game requirements were extracted from the *System Requirements* website.
+- GPU benchmark scores were obtained from the *Benchmarks* website.
+- Player hardware data was collected from the Steam hardware survey.
 
-## ✅ Week 3: Exploratpry Data Analysis (Completed)
-1. Convert reales_date to datetime
-2. Join Market Share table and Game Requirements table
-3. Extract benchmark data from Benchamarks website
-4. Join Benchmark Score table and Game Requirements table
-5. Create new tables
+## Data Processing
+- Standardization of GPU names.
+- Creation of organized tables based on the extracted data.
+- Cleaning and structuring of information to ensure analysis consistency.
 
-## 🔄 Week 4: Comparison of player hardware vs. game requirements (In Progress)
-1. Modify the benchmark code to extract GPU data from notebooks
-2. Changes in the processing code
-    - Create a code to update/create tables
-    - Merge benchmark scores into the GPU table
-    - Modify the requirements table to include only the minimum and recommended benchmark scores
-3. Most dominant graphics cards in the market
-    - Which games they can run
-    - How many games they can run
+## Exploratory Analysis
+- Development of visualizations to interpret each game's requirements.
+- Verification of GPU compatibility with minimum and recommended requirements.
+- Evaluation of the optimization of the most recent games based on the collected data.
 
-## 🔄 Week 5: Evolution of game requirements over time.
+With this approach, the study aims to better understand the relationship between hardware requirements and the actual performance of GPUs in the latest games.
 
-## 🔄 Week 6: Insights and predictions (player clusters, predictive models).
+# About the project
 
-## 🔄 Week 7: Final report and interactive dashboard with Streamlit.
+The project lasted for a month, with the extraction phase being the most challenging. At first, I struggled since I had never worked with Web Scraping before. However, throughout the project, I learned the fundamentals of the Selenium library and managed to achieve a satisfactory result.
 
-# ----------------------------------------------------------------
+During the processing phase, several functions were applied to standardize names and create new tables, which proved to be very useful for exploratory data analysis. However, this stage also significantly reduced the volume of game data, making the analysis more concise than I had hoped.
 
-# (PT-BR) Comparação Entre Requisitos Mínimos e Hardware Real dos Jogadores
+Finally, the exploratory data analysis phase was where I felt most comfortable, as I have been focusing my theoretical and practical studies on this area since last year. However, as mentioned earlier, the reduction in data limited the number of insights I could generate.
 
-Este projeto analisa a compatibilidade entre os requisitos mínimos dos jogos e o hardware real dos jogadores, extraindo e processando dados para identificar discrepâncias e tendências.
+In summary, developing this project was an enriching experience. From data extraction to the final analysis, I had the opportunity to practice and enhance my skills, especially when it comes to games a topic I am passionate about and could talk about for hours.
 
-## ✅ Semana 1: Coleta de dados (Concluída)
-1. Definir escopo detalhado do projeto:
-    - Utilizar jogos famosos e em alta.
-2. Pesquisar e selecionar fontes de dados
-    - Pesquisa de Hardware da Steam e a Lista de jogos populares do CanYouRunIt.
-3. Extrair os dados de Placa de Vídeo da Pesquisa de Hardware da Steam
-4. Extrair os dados de VRAM da Pesquisa de Hardware da Steam
-5. Extrair os dados de RAM da Pesquisa de Hardware da Steam
-6. Extrair os processadores no site da Intel
-7. Extrair os dados dos dados do site CanYouRunIt
+---
 
-## ✅ Semana 2: Processamento dos dados (Concluída)
-1. Generate tables
-2. Correção o código system_requirements_website_data (trocar colunas de GPU e RAM)
-3. Extrair os dados do site SystemRequirements (será usado ao invés do CanYouRunIt)
-5. Padronizar os nomes de GPU utilizando a pesquisa de Harware da Steam
-4. Padronizar os nomes de CPU utilizando o site da Intel como base
-6. Padronizar a capacidade de RAM utilizando a pesquisa de Harware da Steam
- 
-## ✅ Semana 3: Análise exploratória dos Dados (Concluída)
-1. Converter release_date para tipo datetime
-2. Juntar a fatia de mercado nas tabelas de requerimento
-3. Extrair os dados de benchmark do site Benchmarks
-4. Juntar as pontuações de benchmark nas tabelas de requerimento
-5. Construir tabelas auxiliares
+# **PT-BR**
+# **Comparação Entre Requisitos Mínimos e Hardware Real dos Jogadores**
 
-## 🔄 Semana 4: Comparação do hardware dos jogadores vs. requisitos dos jogos (Em Andamento)
-1. Alteração no código de benchmark para extrair GPU de notebooks
-2. Alterações no código de processamento
-    - Criar um código para atualizar/criar tabelas
-    - Juntar as pontuações de benchmark na tabela de GPU
-    - Alterar a tabela de requerimentos para que ela contenha apenas a pontuação mínima e recomendada de benchmark
-    - Salvar novas tabelas
-3. Placas mais dominantes no mercado
-    - Quais jogos elas conseguem rodar
-    - Quantos jogos elas conseguem rodar
+Este projeto tem como objetivo realizar uma análise descritiva e comparar os Requisitos Mínimos e Recomendados de uma lista de jogos. Além disso, busca tirar conclusões sobre a otimização dos títulos mais recentes. Para este estudo inicial, a análise focou exclusivamente em GPUs da NVIDIA, considerando que este é o componente mais caro de um PC gamer.
 
-## 🔄 Semana 5: Evolução dos requisitos ao longo do tempo.
+O projeto foi estruturado em três principais etapas: **Extração de Dados, Processamento de Dados e Análise Exploratória**.
 
-## 🔄 Semana 6: Insights e predições (clusters de jogadores, modelos preditivos).
+## Extração de Dados
+- Web scraping foi realizado utilizando a biblioteca Selenium.
+- Os requisitos dos jogos foram extraídos do site *System Requirements*.
+- Os benchmarks das GPUs foram obtidos no site *Benchmarks*.
+- Os dados de hardware dos jogadores foram coletados na pesquisa de hardware da Steam.
 
-## 🔄 Semana 7: Relatório final e dashboard interativo com Streamlit.
+## Processamento de Dados
+- Padronização dos nomes das GPUs.
+- Criação de tabelas organizadas com base nos dados extraídos.
+- Limpeza e estruturação das informações para garantir a consistência da análise.
+
+## Análise Exploratória
+- Desenvolvimento de visualizações para interpretar os requisitos de cada jogo.
+- Verificação da compatibilidade das GPUs com os requisitos mínimos e recomendados.
+- Avaliação da otimização dos jogos mais recentes com base nos dados coletados.
+
+Com essa abordagem, o estudo busca compreender melhor a relação entre os requisitos de hardware e o desempenho real das GPUs nos jogos mais recentes.
+
+# Sobre o projeto
+
+O projeto teve a duração de um mês, sendo a fase de extração a mais desafiadora. No início, tive dificuldades, pois nunca havia trabalhado com Web Scraping antes. No entanto, ao longo do projeto, aprendi os fundamentos da biblioteca Selenium e consegui alcançar um resultado satisfatório.
+
+Durante a fase de processamento, várias funções foram aplicadas para padronizar os nomes e criar novas tabelas, o que se mostrou muito útil para a análise exploratória dos dados. No entanto, essa etapa também reduziu significativamente o volume de dados dos jogos, tornando a análise mais concisa do que eu esperava.
+
+Por fim, a fase de análise exploratória foi onde me senti mais confortável, pois venho focando meus estudos teóricos e práticos nessa área desde o ano passado. No entanto, como mencionado anteriormente, a redução dos dados limitou a quantidade de insights que pude gerar.
+
+Em resumo, desenvolver este projeto foi uma experiência enriquecedora. Desde a extração dos dados até a análise final, tive a oportunidade de praticar e aprimorar minhas habilidades, especialmente em um tema pelo qual sou apaixonado e sobre o qual poderia falar por horas.
